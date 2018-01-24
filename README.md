@@ -1,4 +1,4 @@
-# (http://aleesteele.com)[http://aleesteele.com]
+# [http://aleesteele.com](http://aleesteele.com)
 
 ## Description
 Setting up for personal website.
