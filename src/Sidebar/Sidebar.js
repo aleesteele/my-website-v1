@@ -22,9 +22,9 @@ class Sidebar extends Component {
                         <Link to="/about" className="App-nav-link">About</Link>
                     </div>
                     <div className="App-sidebar-nav-div">
-                        <a href="https://github.com/aleesteele/"><img src="/social-media/github.png" className="sidebar-icon"/></a>
-                        <a href="https://www.linkedin.com/in/anneleesteele"><img src="/social-media/linkedin.png" className="sidebar-icon"/></a>
-                        <a href="https://twitter.com/a_lee_steele"><img src="/social-media/twitter.png" className="sidebar-icon"/></a>
+                        <a href="https://github.com/aleesteele/"><img src="/social-media/github.png" className="sidebar-icon" alt="github"/></a>
+                        <a href="https://www.linkedin.com/in/anneleesteele"><img src="/social-media/linkedin.png" className="sidebar-icon" alt="linkedin"/></a>
+                        <a href="https://twitter.com/a_lee_steele"><img src="/social-media/twitter.png" className="sidebar-icon" alt="twitter"/></a>
                     </div>
                 </div>
             </div>

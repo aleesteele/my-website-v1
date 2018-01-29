@@ -12,7 +12,7 @@ class Home extends Component {
             <div className="Home">
                 <h1 className="Home-main-text">
 
-                    I recently graduated from Columbia University, where I <Link to="/academics">avidly studied people</Link>, <Link to="">designed gear for a 24-hour dance marathon</Link>, <Link to="">shot a lot of video</Link>, and <Link to="">interviewed foresters in the last Himalayan Kingdom</Link>, amongst other things. I <Link to="">most recently learned how to program</Link>.
+                    I recently graduated from Columbia University, where I <Link to="/academics" className="Home-link">avidly studied people</Link>, <Link to="#" className="Home-link">designed gear for a 24-hour dance marathon</Link>, <Link to="#" className="Home-link">shot a lot of video</Link>, and <Link to="#" className="Home-link">interviewed foresters in the last Himalayan Kingdom</Link>, amongst <Link to="#" className="Home-link">other things</Link>. I <Link to="#" className="Home-link">most recently attended a full-stack programming bootcamp</Link>.
 
 
                 </h1>

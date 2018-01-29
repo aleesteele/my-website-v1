@@ -3,5 +3,16 @@
 }
 
 h1.Home-main-text {
-    font-size: 50px;
+    font-size: 30px;
+    max-width: 500px;
+}
+
+a.Home-link {
+    color: black;
+    text-decoration: none;
+}
+
+a.Home-link:hover {
+    color: grey;
+    text-decoration: none;
 }
