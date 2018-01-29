@@ -1,0 +1,35 @@
+import React, {Component} from 'react';
+import {Link} from 'react-router';
+import './Sidebar.css';
+
+class Sidebar extends Component {
+    constructor (props) {
+        super(props);
+    }
+    render() {
+        console.log('inside Sidebar component');
+        return (
+            <div className="Sidebar">
+                <h1 className="App-sidebar-name">Anne Lee Steele</h1>
+                <div className="App-sidebar-nav">
+                    <div className="App-sidebar-nav-div">
+                        <Link to="/" className="App-nav-link">Home</Link>
+                    </div>
+                    {/* <div className="App-sidebar-nav-div">
+                        <Link to="/portfolio" className="App-nav-link">Portfolio</Link>
+                    </div> */}
+                    <div className="App-sidebar-nav-div">
+                        <Link to="/about" className="App-nav-link">About</Link>
+                    </div>
+                    <div className="App-sidebar-nav-div">
+                        <a href="https://github.com/aleesteele/"><img src="/social-media/github.png" className="sidebar-icon"/></a>
+                        <a href="https://www.linkedin.com/in/anneleesteele"><img src="/social-media/linkedin.png" className="sidebar-icon"/></a>
+                        <a href="https://twitter.com/a_lee_steele"><img src="/social-media/twitter.png" className="sidebar-icon"/></a>
+                    </div>
+                </div>
+            </div>
+        );
+    }
+}
+
+export default Sidebar;

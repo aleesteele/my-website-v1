@@ -8,6 +8,8 @@ import reducer from './routes/reducers';
 import App from './App';
 import Home from './Home/Home';
 import About from './About/About';
+import Portfolio from './Portfolio/Portfolio';
+import Academics from './Academics/Academics';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
@@ -20,6 +22,8 @@ router = (
             <Route path="/" component={App}>
                 <IndexRoute component={Home}/>
                 <Route path="/about" component={About}/>
+                <Route path="/Portfolio" component={Portfolio}/>
+                <Route path="/academics" component={Academics}/>
             </Route>
         </Router>
     </Provider>

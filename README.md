@@ -1,7 +1,7 @@
-# [http://aleesteele.com](http://aleesteele.com)
+# [aleesteele.com](http://aleesteele.com)
 
 ## Description
-Setting up for personal website.
+My personal portfolio website (always a work in progress).
 
 ## Credits
 Bootstrapped from (facebookincubator)[https://github.com/facebookincubator/create-react-app].

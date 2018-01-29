@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router';
-import logo from './logo.svg';
+import Sidebar from './Sidebar/Sidebar'
 import './App.css';
 
 class App extends Component {
@@ -13,27 +13,42 @@ class App extends Component {
     }
     render() {
         console.log('inside App component')
+        const children = React.cloneElement(this.props.children, {})
         return (
             <div className="App">
-                <header className="App-header">
-                    <div className="App-title">
-                        <Link to="/">
-                            <h1 className="App-title-name">Gene Coleman</h1>
-                        </Link>
-                    </div>
+                {/* <header className="App-header">
                     <div className="App-nav">
-                        {/* <div className="App-nav-link"><Link to="/about"><h2>About</h2></Link></div>
-                        <div className="App-nav-link"><Link to="/b&w"><h2>Black & White</h2></Link></div>
-                        <div className="App-nav-link"><Link to="/color"><h2>Color</h2></Link></div>
-                        <div className="App-nav-link"><Link to="/dearnyc"><h2>Dear New York</h2></Link></div> */}
+                        <div className="App-nav-div">
+                            <Link to="/" className="App-nav-link">Home</Link>
+                        </div>
+                        <div className="App-nav-div">
+                            <Link to="/portfolio" className="App-nav-link">Portfolio</Link>
+                        </div>
+                        <div className="App-nav-div">
+                            <Link to="/about" className="App-nav-link">About</Link>
+                        </div>
                     </div>
+                </header> */}
+                <header className="App-sidebar">
+                    <Sidebar />
                 </header>
                 <div className="App-content">
-                    Hey.
+                    { children }
                 </div>
-                <footer className="App-footer">
-                    Built by <a href="http://aleesteele.com">Anne Lee Steele</a>
-                </footer>
+                {/* <footer className="App-footer">
+                    <div className="App-foot-div">
+                        <a href="" className="App-footer-link">Facebook</a>
+                    </div>
+                    <div className="App-foot-div">
+                        <a href="" className="App-footer-link">Instagram</a>
+                    </div>
+                    <div className="App-foot-div">
+                        <a href="" className="App-footer-link">Linkedin</a>
+                    </div>
+                    <div className="App-foot-div">
+                        <a href="" className="App-footer-link">Email</a>
+                    </div>
+                </footer> */}
             </div>
         );
     }

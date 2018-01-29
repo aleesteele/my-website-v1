@@ -1,0 +1,35 @@
+.Sidebar {
+
+}
+
+
+.App-sidebar {
+    left: 0px;
+    width: 20%;
+    min-height: 100vh;
+    background-color: #222;
+    padding: 5px;
+}
+
+.App-sidebar-name {
+    color: #FFFFFF;
+}
+
+.App-sidebar-nav-div {
+    width: 100%;
+    padding: 2px;
+}
+
+.App-nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.App-nav-link:hover {
+    color: grey;
+}
+
+.sidebar-icon {
+    max-width: 30px;
+    padding: 2px;
+}
