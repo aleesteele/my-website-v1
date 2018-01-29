@@ -5,10 +5,6 @@ class About extends Component {
     render() {
         console.log('inside About component');
         return (<div className="About">
-            <p>
-                Anne was born in Chicago, Illinois to Korean- and German-American parents.
-            </p>
-            <br/>
             <b>TECHNICAL CAPACITY. RESEARCH BACKGROUND. COMMUNICATION SKILLS. </b><br/>
             <br/>
             My special interests are in data visualization, market research and digital storytelling.<br/><br/>
