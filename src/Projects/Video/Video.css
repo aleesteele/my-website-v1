@@ -1,0 +1,11 @@
+.Video {
+    margin: 20px;
+}
+
+.Video-preview {
+    max-width: 50%;
+}
+
+.Video-header {
+    max-width: 600px;
+}

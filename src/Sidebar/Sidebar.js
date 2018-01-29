@@ -11,7 +11,7 @@ class Sidebar extends Component {
         return (
             <div className="Sidebar">
                 <div className="Sidebar-photo-div">
-                    <img src="my-photo.png" className="Sidebar-photo" alt="my-photo"/>
+                    <Link to="/"><img src="my-photo.png" className="Sidebar-photo" alt="my-photo"/></Link>
                 </div>
                 <div className="Sidebar-name-div">
                     <h1 className="App-sidebar-name">Anne Lee Steele</h1>
