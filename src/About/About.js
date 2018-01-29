@@ -46,7 +46,7 @@ class About extends Component {
             <b>WEB DEVELOPMENT</b><br/>
             <p>
                 <i>My special interests are in data visualization, market research and digital storytelling.</i><br/>
-                <u>Frontend:</u> HTML5, CSS4, React, Redux, Angular, Handlebars, Three.js, jQuery, Canvas<br/>
+                <u>Frontend:</u> HTML5, CSS4, React, Redux, Angular, Handlebars, Three.js, jQuery, Canvas, Media queries<br/>
                 <u>Backend:</u> Node, Express, RESTful APIs, Socket.io, Postgres (SQL), Redis (NoSQL)<br/>
                 <u>Mapping:</u> ArcGIS, GoogleMaps<br/>
                 <u>Hosting/CMS:</u> Heroku, Amazon Web Services (AWS), Wordpress, Weebly<br/>

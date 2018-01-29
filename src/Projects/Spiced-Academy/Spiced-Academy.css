@@ -1,3 +1,14 @@
 .Spiced-Academy {
     margin: 20px;
 }
+
+.Spiced-Academy-text {
+    max-width: 600px;
+}
+
+.Spiced-Academy-links {
+}
+
+.Spiced-Academy-links: hover {
+    color: grey;
+}

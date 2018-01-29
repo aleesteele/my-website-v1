@@ -3,22 +3,6 @@
     display: flex;
 }
 
-.App-header {
-    /* transform: translate(350px,0); */
-    /* transform: rotate(-90deg);
-    left: 0px; */
-    top: 0px;
-    /* position: absolute; */
-    background-color: #222;
-    width: 100%;
-    height: 50px;
-    padding: 20px;
-    color: white;
-    text-align: center;
-    /* display: flex; */
-}
-
-
 .App-nav-div {
     /* width: 33%; */
     /* display: flex; */
@@ -70,8 +54,36 @@ Link {
     text-decoration: none;
 }
 
-
-
 .App-content {
-    width: 80%;
+    width: 100%;
+}
+
+/* MOBILE */
+@media screen and (max-width:768px){
+    .App {
+        display: inline-block;
+        text-align: center;
+    }
+    .App-sidebar {
+        width: 100%;
+        min-height: 100px;
+        max-height: 200px;
+    }
+    .App-content {
+        width: 100%;
+    }
+    .Sidebar-photo {
+        height: 60px;
+    }
+    .App-sidebar-name {
+        color: #FFFFFF;
+        font-size: 30px;
+        margin: 0 5px 0 5px;
+    }
+    .App-sidebar-nav {
+        display: flex;
+    }
+    h1 {
+
+    }
 }
