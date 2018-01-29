@@ -10,7 +10,12 @@ class Sidebar extends Component {
         console.log('inside Sidebar component');
         return (
             <div className="Sidebar">
-                <h1 className="App-sidebar-name">Anne Lee Steele</h1>
+                <div className="Sidebar-photo-div">
+                    <img src="my-photo.png" className="Sidebar-photo" alt="my-photo"/>
+                </div>
+                <div className="Sidebar-name-div">
+                    <h1 className="App-sidebar-name">Anne Lee Steele</h1>
+                </div>
                 <div className="App-sidebar-nav">
                     <div className="App-sidebar-nav-div">
                         <Link to="/" className="App-nav-link">Home</Link>
@@ -20,6 +25,9 @@ class Sidebar extends Component {
                     </div> */}
                     <div className="App-sidebar-nav-div">
                         <Link to="/about" className="App-nav-link">About</Link>
+                    </div>
+                    <div className="App-sidebar-nav-div">
+                        <Link to="/contact" className="App-nav-link">Contact</Link>
                     </div>
                     <div className="App-sidebar-nav-div">
                         <a href="https://github.com/aleesteele/"><img src="/social-media/github.png" className="sidebar-icon" alt="github"/></a>

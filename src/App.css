@@ -1,6 +1,5 @@
 .App {
-    background-image: image('');
-    font-family: 'Playfair Display', serif;
+    font-family: 'Lato', sans-serif;
     display: flex;
 }
 
@@ -42,12 +41,26 @@
 
 h1, h2, h3 {
     padding: 0;
+    /* font-family: arial; */
 }
 
 p {
-    font-size: 10px;
+    font-size: 12px;
 }
 
+b {
+    color: #222;
+}
+
+i {
+    color: #606060;
+}
+
+u {
+    background-color: #222;
+    color: #fff;
+    text-decoration: none;
+}
 
 
 

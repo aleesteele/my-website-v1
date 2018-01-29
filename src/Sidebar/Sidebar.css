@@ -1,5 +1,7 @@
 .Sidebar {
-
+    text-align: center;
+    align-content: center;
+    align-items: center;
 }
 
 
@@ -13,11 +15,19 @@
 
 .App-sidebar-name {
     color: #FFFFFF;
+    font-size: 50px;
+    margin: 0 5px 0 5px;
+}
+
+.Sidebar-photo {
+    max-width: 50%;
 }
 
 .App-sidebar-nav-div {
     width: 100%;
-    padding: 2px;
+    padding: 3px;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .App-nav-link {
