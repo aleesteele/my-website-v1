@@ -3,7 +3,7 @@ import {Link} from 'react-router';
 import {Provider} from 'react-redux';
 import {createStore, applyMiddleware} from 'redux';
 import reduxPromise from 'redux-promise';
-import Sidebar from './Sidebar/Sidebar';
+import Sidebar from '../Sidebar/Sidebar';
 import './App.css';
 
 class App extends Component {
