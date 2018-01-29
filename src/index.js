@@ -5,7 +5,7 @@ import {Provider} from 'react-redux';
 import {createStore, applyMiddleware} from 'redux';
 import reduxPromise from 'redux-promise';
 import reducer from './routes/reducers';
-import App from './App.js';
+import App from './App/App.js';
 import Home from './Home/Home';
 import About from './About/About';
 import Portfolio from './Portfolio/Portfolio';
