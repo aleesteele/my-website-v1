@@ -11,9 +11,23 @@ class About extends Component {
                 RESEARCH BACKGROUND. <br/>
                 MULTIMEDIA SKILLS.
             </h2></b>
-            <b>ACADEMICS</b><br/>
-            Class of 2017 – Columbia University<br/>
-            B.A. Sociology, B.A. Anthropology
+            <b>ACADEMICS</b><br/><br/>
+
+            London School of Economics, University of London<br/>
+            Graduate Diploma, Economics<br/>
+            2017 - Current<br/>
+            London, UK (Online)
+            <p>
+                <a href="http://www.londoninternational.ac.uk/courses/diploma-graduates/lse/diploma-graduates-economics" className="About-link"><i>"Developed by academics at LSE, this diploma provides a strong grounding in economics and helps you to develop critical skills for a wide range of real world professional situations. It is designed for graduates looking for either a standalone qualification in economics or a foundation for postgraduate study."</i></a><br/>
+            </p>
+            <p>
+                <u>Modules</u>: Macroeconomics, Microeconomics, International Economics, Elements of Econometrics<br/>
+            </p>
+
+            Columbia University in the City of New York<br/>
+            B.A. Sociology, B.A. Anthropology<br/>
+            2011 - 2017<br/>
+            New York, USA
             <p>
                 <i>Coursework focused on sustainable development, cultural studies and languages</i><br/>
                 <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Literary Texts and Criticism, Science for Sustainable Development, Earth Resources, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Anthropology of Art, Earth Institute Practicum
@@ -21,6 +35,9 @@ class About extends Component {
             </p>
             <p>
                 <u>Select Organizations:</u> Undergraduate Committee on Global Thought, Columbia Photographers Association, EcoReps, Columbia Daily Spectator
+            </p>
+            <p>
+                <u>Study Abroad</u>: <i>Environmental and Development Studies</i>, Spring 2017. Based at the Ugyen Wangchuck Institute for Conservation and Environmental Research (UWICER) in Bumthang, Bhutan. Fully funded by Columbia University and the School for Field Studies.
             </p>
             <p>
                 <u>Notable Projects:</u> <br/>
@@ -43,12 +60,6 @@ class About extends Component {
                 <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German<br/>
             </p>
 
-            <u><i className="About-italic">Currently pursuing a Graduate Diploma in Economics through the London School of Economics, University of London International Programme, Independent Study</i></u>
-            <p>
-                <a href="http://www.londoninternational.ac.uk/courses/diploma-graduates/lse/diploma-graduates-economics" className="About-link"><i>"Developed by academics at LSE, this diploma provides a strong grounding in economics and helps you to develop critical skills for a wide range of real world professional situations. It is designed for graduates looking for either a standalone qualification in economics or a foundation for postgraduate study."</i></a><br/>
-                <u>Modules</u>: Macroeconomics, Microeconomics, International Economics, Elements of Econometrics<br/>
-            </p>
-
             <b>WEB DEVELOPMENT</b><br/>
             <p>
                 <i>My special interests are in data visualization, market research and digital storytelling.</i><br/>
@@ -62,7 +73,7 @@ class About extends Component {
             <b>MULTIMEDIA</b><br/>
             <p>
                 <u>Design:</u> Adobe Creative Suite (Photoshop, Illustrator, Lightroom, InDesign)<br/>
-                <u>Communication:</u> Editing, Copywriting (academic, journalism)<br/>
+                <u>Communication:</u> Editing, Copywriting (academic, journalism, creative)<br/>
                 <u>Video Production:</u> Premiere Pro, Final Cut Pro (X), cinematography<br/>
                 <u>Marketing:</u> SEO keywords, social media<br/>
                 <u>Other:</u> photography/video/audio equipment<br/>
