@@ -32,11 +32,11 @@ class About extends Component {
             </p>
             <p>
                 <u>Select Publications</u><br/>
-                <b>**Note: Formatting in online editions may be different than origin due to website changes, etc.**</b><br/>
                 • <i>"Investigating the Global and Local in Wangchuck Centennial National Park: A Case for the Bhutanese Conservation Actors In-Between"</i>. <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/">Published online in Consilience, the Journal of Sustainable Development, (2018)</a>.<br/>
                 • <i>"Acknowledging the South and Ourselves"</i>. <a href="http://spc.columbiaspectator.com/2013/02/03/acknowledging-south%E2%80%94and-ourselves">Published the Columbia Daily Spectator, (2013)</a>.<br/>
-                • <i>"Moving Pictures: "</i><a href="http://www.columbiaspectator.com/eye/2013/02/06/moving-pictures/">Published in "The Eye" Magazine, (2013)</a>.<br/>
-                • <i>"On the Venus of Willendorf and My Neighbor"</i>. Published in the print edition of art mag "The Point", Christchurch, NZ (2013).
+                • <i>"Moving Pictures"</i>. <a href="http://www.columbiaspectator.com/eye/2013/02/06/moving-pictures/">Published in "The Eye" Magazine, (2013)</a>.<br/>
+                • <i>"On the Venus of Willendorf and My Neighbor"</i>. Published in the print edition of art mag "The Point", Christchurch, NZ (2013).<br/>
+                • <i>Anne Lee Steele Photography</i>. <a href="https://issuu.com/racingminds/docs/may2011/73">Featured in Racing Minds Mag, (2011)</a>.
             </p>
             <p>
                 <u>Skills:</u> qualitative & quantitative data analysis, interviewing, literature review, ethnography, field research, mapping<br/>
@@ -57,9 +57,22 @@ class About extends Component {
             <p>
                 <u>Design:</u> Adobe Creative Suite (Photoshop, Illustrator, Lightroom, InDesign)<br/>
                 <u>Communication:</u> Editing, Copywriting (academic, journalism)<br/>
-                <u>Video Production:</u> Premiere Pro, Final Cut Pro (X)<br/>
+                <u>Video Production:</u> Premiere Pro, Final Cut Pro (X), cinematography<br/>
                 <u>Marketing:</u> SEO keywords, social media<br/>
                 <u>Other:</u> photography/video/audio equipment<br/>
+            </p>
+
+            <b>WORK EXPERIENCE</b>
+            <p>
+                • <u>STAFF INTERN</u> – <i>ACNHUR España/UN High Commissioner for Refugees</i> – Madrid, Spain (2016)<br/>
+                • <u>RESEARCH ASSISTANT</u> – <i>Dr. Saskia Sassen, Sociology Department, Columbia University</i> – New York, USA (2015-2016)<br/>
+                • <u>MEDIA INTERN</u> – <i>Undergraduate Recruitment Committee, Columbia University</i> – New York, USA (2014-2015)<br/>
+                • <u>SEASONAL VOLUNTEER</u> – <i>Rooftop Films</i> – New York, USA (2014-16)<br/>
+                • <u>SENIOR MENTOR PHOTOGRAPHER</u> – <i>Columbia Photographers Association</i> – New York, USA (2011-2014)<br/>
+                • <u>PRODUCTION ASSISTANT</u> – <i>WGTN LUX Festival</i> – Wellington, New Zealand (2013)<br/>
+                • <u>CONSERVATION VOLUNTEER</u> – <i>Elephant Valley Project</i> – Mondulkiri, Cambodia (2013)<br/>
+                • <u>ASSOCIATE EDITOR</u> – <i>Halcyon Photography Magazine</i> – New York, USA (2011-2012)<br/>
+                • <u>FREELANCER</u> – <i>Self-Employed</i> – Hired for portraits, events, branding (2009-Current)
             </p>
 
             <b>OTHER CERTIFICATIONS</b>

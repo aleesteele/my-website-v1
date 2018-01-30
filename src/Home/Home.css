@@ -8,11 +8,11 @@ h1.Home-main-text {
 }
 
 a.Home-link {
-    color: black;
+    color: #8c8c8c;
     text-decoration: none;
 }
 
 a.Home-link:hover {
-    color: grey;
+    color: #c9c9c9;
     text-decoration: none;
 }

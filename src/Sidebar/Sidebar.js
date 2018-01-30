@@ -24,7 +24,7 @@ class Sidebar extends Component {
                         <Link to="/portfolio" className="App-nav-link">Portfolio</Link>
                     </div> */}
                     <div className="App-sidebar-nav-div">
-                        <Link to="/about" className="App-nav-link">About</Link>
+                        <Link to="/about" className="App-nav-link">Resume</Link>
                     </div>
                     <div className="App-sidebar-nav-div">
                         <Link to="/contact" className="App-nav-link">Contact</Link>
