@@ -12,7 +12,7 @@ class About extends Component {
                 MULTIMEDIA SKILLS.
             </h2></b>
             <b>ACADEMICS</b><br/>
-            Class of 2017 - Columbia University<br/>
+            Class of 2017 – Columbia University<br/>
             B.A. Sociology, B.A. Anthropology
             <p>
                 <i>Coursework focused on sustainable development, cultural studies and languages</i><br/>
@@ -40,7 +40,13 @@ class About extends Component {
             </p>
             <p>
                 <u>Skills:</u> qualitative & quantitative data analysis, interviewing, literature review, ethnography, field research, mapping<br/>
-                <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German
+                <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German<br/>
+            </p>
+
+            <u><i className="About-italic">Currently pursuing a Graduate Diploma in Economics through the London School of Economics, University of London International Programme, Independent Study</i></u>
+            <p>
+                <a href="http://www.londoninternational.ac.uk/courses/diploma-graduates/lse/diploma-graduates-economics" className="About-link"><i>"Developed by academics at LSE, this diploma provides a strong grounding in economics and helps you to develop critical skills for a wide range of real world professional situations. It is designed for graduates looking for either a standalone qualification in economics or a foundation for postgraduate study."</i></a><br/>
+                <u>Modules</u>: Macroeconomics, Microeconomics, International Economics, Elements of Econometrics<br/>
             </p>
 
             <b>WEB DEVELOPMENT</b><br/>
@@ -75,7 +81,7 @@ class About extends Component {
                 • <u>FREELANCER</u> – <i>Self-Employed</i> – Hired for portraits, events, branding (2009-Current)
             </p>
 
-            <b>OTHER CERTIFICATIONS</b>
+            <b>OTHER CERTIFICATIONS / COURSES</b>
             <p>
                 • SPICED ACADEMY OF CODE – Full-Stack Web Development – Berlin, Germany (2017)<br/>
                 • NEPAL MOUNTAINEERING ASSOCIATION – Beginner Mountaineering Course – Manang Region, Nepal (2017)<br/>
