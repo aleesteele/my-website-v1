@@ -6,13 +6,13 @@ class About extends Component {
         console.log('inside About component');
         return (
             <div className="About">
-            <b><h2>
+            <b><h2 className="About-tagline">
                 TECHNICAL CAPACITY. <br/>
                 RESEARCH BACKGROUND. <br/>
                 MULTIMEDIA SKILLS.
             </h2></b>
             <b>ACADEMICS</b><br/>
-            Class of 2017 - Columbia University in the City of New York<br/>
+            Class of 2017 - Columbia University<br/>
             B.A. Sociology, B.A. Anthropology
             <p>
                 <i>Coursework focused on sustainable development, cultural studies and languages</i><br/>

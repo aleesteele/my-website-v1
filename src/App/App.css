@@ -83,4 +83,10 @@ Link {
     .App-sidebar-nav {
         display: flex;
     }
+    .About {
+        text-align: left;
+    }
+    .About-tagline {
+        text-align: center;
+    }
 }
