@@ -1,8 +1,13 @@
 .About {
     margin: 10px;
-    max-width: 650px;
+    max-width: 830px;
 }
 
-p {
-    font-size: 11px;
+.About-link {
+    color: black;
+}
+
+.About-link:hover {
+    text-decoration: underline;
+    color: black;
 }
