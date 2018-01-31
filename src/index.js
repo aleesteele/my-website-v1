@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Router, Route, IndexRoute, browserHistory} from 'react-router';
+import {Router, Route, IndexRoute, browserHistory, Redirect} from 'react-router';
 import {Provider} from 'react-redux';
 import {createStore, applyMiddleware} from 'redux';
 import reduxPromise from 'redux-promise';
@@ -37,6 +37,7 @@ router = (
                 <Route path="/spiced" component={SpicedAcademy}/>
                 <Route path="/video" component={Video}/>
                 <Route path="/other" component={Other}/>
+                <Redirect from="*" to="/" />
             </Route>
         </Router>
     </Provider>
