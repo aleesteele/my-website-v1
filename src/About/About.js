@@ -12,6 +12,9 @@ class About extends Component {
                 MULTIMEDIA SKILLS.
             </h2></b>
 
+            <b><h3>SUMMARY</h3></b>
+            Recent graduate with experience in qualitative/quantitative research methods and multimedia production. Trained in programming and web-design. Seeking opportunities to exercise social lens, communication background and technical skills in a collaborative environment. Particularly interested in sustainability, market research and data visualization.
+
             <b><h3>EDUCATION</h3></b>
 
             London School of Economics, University of London International Programme<br/>
@@ -57,12 +60,17 @@ class About extends Component {
                 • <i>"On the Venus of Willendorf and My Neighbor"</i>. Published in the print edition of art mag "The Point", Christchurch, NZ (2013).<br/>
                 • <i>Anne Lee Steele Photography</i>. <a href="https://issuu.com/racingminds/docs/may2011/73" className="About-link">Featured in Racing Minds Mag, (2011)</a>.
             </p>
-            <p>
-                <u>Skills:</u> qualitative & quantitative data analysis, interviewing, literature review, ethnography, field research, mapping<br/>
-                <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German<br/>
-            </p>
 
-            <h3><b>WEB DEVELOPMENT</b></h3>
+            <h3><b>SKILLS SUMMARY</b></h3>
+            <p>
+                • <u>Technical</u>: qualitative/quantitative data analysis, mapping (ArcGIS, Google Maps), Microsoft Suite<br/>
+                • <u>Web-Development</u>: HTML5/CSS4/Javascript, jQuery, Frontend (React, Redux, Angular, Handlebars), Backend (Express, Node), RESTful APIs (Github, Twitter, News, Google Maps), Postgres, Redis, Media Queries, Three.js, Heroku, Content Management Systems (AWS, Wordpress), Data-types (json, csv/tsv/dsv, txt, sql, xml)<br/>
+                • <u>Research</u>: interviewing, writing (academic/journalism/ethnographic), interviewing, literature review, field research<br/>
+                • <u>Multimedia</u>: design (Adobe CS6/CC), video production (Final Cut Pro X/Premiere Pro)<br/>
+                • <u>Marketing</u>: SEO, social media<br/>
+                • <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German
+            </p>
+            {/* <h3><b>WEB DEVELOPMENT</b></h3>
             <p>
                 <i>My special interests are in data visualization, market research and digital storytelling.</i><br/>
                 <u>Frontend:</u> HTML5, CSS4, React, Redux, Angular, Handlebars, Three.js, jQuery, Canvas, Media queries<br/>
@@ -78,28 +86,28 @@ class About extends Component {
                 <u>Communication:</u> Editing, Copywriting (academic, journalism)<br/>
                 <u>Video Production:</u> Premiere Pro, Final Cut Pro (X), cinematography<br/>
                 <u>Marketing:</u> SEO keywords, social media<br/>
-            </p>
+            </p> */}
 
             <h3><b>EXPERIENCE</b></h3>
             <p>
-                • <u>STAFF INTERN</u> – <i>United Nations High Commissioner for Refugees (UNHCR)</i> – Madrid, Spain (2016)<br/>
-                • <u>RESEARCH ASSISTANT</u> – <i>Dr. Saskia Sassen, Sociology Department, Columbia University</i> – New York, USA (2015 - 2016)<br/>
-                • <u>MEDIA INTERN</u> – <i>Undergraduate Recruitment Committee, Columbia University</i> – New York, USA (2014 - 2015)<br/>
-                • <u>SEASONAL VOLUNTEER</u> – <i>Rooftop Films</i> – New York, USA (2014-16)<br/>
-                • <u>PRODUCTION ASSISTANT</u> – <i>WGTN LUX Festival</i> – Wellington, New Zealand (2013)<br/>
-                • <u>CONSERVATION VOLUNTEER</u> – <i>Elephant Valley Project</i> – Mondulkiri, Cambodia (2013)<br/>
-                • <u>ASSOCIATE EDITOR</u> – <i>Halcyon Photography Magazine</i> – New York, USA (2011 - 2012)<br/>
-                • <u>FREELANCER</u> – <i>Self-Employed</i> – Hired for portraits, events, branding (2009-Current)
+                • <u>United Nations High Commissioner for Refugees (UNHCR)</u> – <i>Staff Intern</i> – Madrid, Spain (2016)<br/>
+                • <u>Dr. Saskia Sassen, Sociology Department, Columbia University</u> – <i>Research, General Assistant</i> – New York, USA (2015 - 2016)<br/>
+                • <u>Undergraduate Recruitment Committee, Columbia University</u> – <i>Media Intern</i> – New York, USA (2014 - 2015)<br/>
+                • <u>Rooftop Films</u> – <i>Seasonal Volunteer</i> – New York, USA (2014 - 2016)<br/>
+                • <u>WGTN LUX Festival, Massey University</u> – <i>Production Assistant</i> – Wellington, New Zealand (2013)<br/>
+                • <u>Elephant Valley Project</u> – <i>Conservation Volunteer</i> – Mondulkiri, Cambodia (2013)<br/>
+                • <u>Halcyon Photography Magazine</u> – <i>Associate Editor</i> – New York, USA (2011 - 2012)<br/>
+                • <u>Freelance</u> – <i>Self-Employed</i> – Hired for portraits, events, branding (2009-Current)
             </p>
 
             <h3><b>OTHER CERTIFICATIONS / COURSES</b></h3>
             <p>
-                • SPICED ACADEMY OF CODE – Full-Stack Web Development – Berlin, Germany (2017)<br/>
-                • SCHOOL FOR FIELD STUDIES – Environmental & Development Studies – Bumthang, Bhutan (2017)<br/>
-                • NEPAL MOUNTAINEERING ASSOCIATION – Beginner Mountaineering Course – Manang Region, Nepal (2017)<br/>
-                • AMERICAN RED CROSS – First Aid, CPR – New York, USA (2016)<br/>
-                • N.O.L.S. WILDERNESS MEDICINE – Wilderness First Aid – New York, USA (2016)<br/>
-                • P.A.D.I. ADVANCED WATER DIVING CERTIFICATION – Mancora, Peru (2015)<br/>
+                • Spiced Academy of Code – Full-Stack Web Development – Berlin, Germany (2017)<br/>
+                • School for Field Studies – Environmental & Development Studies – Bumthang, Bhutan (2017)<br/>
+                • Nepal Mountaineering Association – Beginner Mountaineering Course – Manang Region, Nepal (2017)<br/>
+                • American Red Cross – First Aid, CPR – New York, USA (2016)<br/>
+                • N.O.L.S. Wilderness Medicine – Wilderness First Aid – New York, USA (2016)<br/>
+                • P.A.D.I. Advanced Open Water Diving – Mancora, Peru (2015)<br/>
             </p>
         </div>);
     }
