@@ -8,12 +8,13 @@ class About extends Component {
             <div className="About">
             <b><h2 className="About-tagline">
                 TECHNICAL CAPACITY. <br/>
-                RESEARCH BACKGROUND. <br/>
+                RESEARCH DRIVEN. <br/>
                 MULTIMEDIA SKILLS.
             </h2></b>
-            <b>ACADEMICS</b><br/><br/>
 
-            London School of Economics, University of London<br/>
+            <b><h3>EDUCATION</h3></b>
+
+            London School of Economics, University of London International Programme<br/>
             Graduate Diploma, Economics<br/>
             2017 - Current<br/>
             London, UK (Online)
@@ -30,20 +31,21 @@ class About extends Component {
             New York, USA
             <p>
                 <i>Coursework focused on sustainable development, cultural studies and languages</i><br/>
-                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Literary Texts and Criticism, Science for Sustainable Development, Earth Resources, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Anthropology of Art, Earth Institute Practicum
+                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Literary Texts and Criticism, Science for Sustainable Development, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum
                 <br/>
             </p>
             <p>
                 <u>Select Organizations:</u> Undergraduate Committee on Global Thought, Columbia Photographers Association, EcoReps, Columbia Daily Spectator
             </p>
             <p>
-                <u>Study Abroad</u>: <i>Environmental and Development Studies</i>, Spring 2017. Based at the Ugyen Wangchuck Institute for Conservation and Environmental Research (UWICER) in Bumthang, Bhutan. Fully funded by Columbia University and the School for Field Studies.
+                <u>Study Abroad</u>: <i>Environmental and Development Studies</i>. School for Field Studies, Spring 2017. Based at the Ugyen Wangchuck Institute for Conservation and Environmental Research (UWICER) in Bumthang, Bhutan. Participation fully funded by CU and SFS.
             </p>
             <p>
                 <u>Notable Projects:</u> <br/>
                 • <i>"Mobility as Multi-Dimensional: Forest Governance at Wangchuck Centennial National Park and Beyond"</i>, final directed research project from semester-long field research program in Bhutan, presented to Royal Government of Bhutan officials, researchers and scientists (2017).<br/>
-                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’: A Study on the Black Mesa mines of the Navajo and Hopi Nations"</i>. Analyzed relationship between energy industry and poverty levels on Native American reservations during semester-long project (2016). <br/>
-                • <i>"Qualifying and Quantifying Media Bias: An Investigation into the Differences in Western Media Reportage of Officially-Claimed ISIL Terrorist Attacks From 2014-2016"</i>. Developed 'bias measures’ in reporting in major news outlets for semester long project (2016).<br/>
+                • Used ArcGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage, (2017).<br/>
+                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Analyzed relationship between energy industry and poverty levels on Native American reservations during semester-long project (2016). <br/>
+                • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reporting of major news outlets for semester long project (2016).<br/>
                 • Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).<br/>
                 • Tracked business growth and gentrification trends of Harlem using public records/Google Maps data (2015).<br/>
             </p>
@@ -60,41 +62,40 @@ class About extends Component {
                 <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German<br/>
             </p>
 
-            <b>WEB DEVELOPMENT</b><br/>
+            <h3><b>WEB DEVELOPMENT</b></h3>
             <p>
                 <i>My special interests are in data visualization, market research and digital storytelling.</i><br/>
                 <u>Frontend:</u> HTML5, CSS4, React, Redux, Angular, Handlebars, Three.js, jQuery, Canvas, Media queries<br/>
                 <u>Backend:</u> Node, Express, RESTful APIs, Socket.io, Postgres (SQL), Redis (NoSQL)<br/>
                 <u>Mapping:</u> ArcGIS, GoogleMaps<br/>
-                <u>Hosting/CMS:</u> Heroku, Amazon Web Services (AWS), Wordpress, Weebly<br/>
+                <u>Hosting/CMS:</u> Heroku, Amazon Web Services (AWS), Wordpress<br/>
                 <u>Data-Types:</u> json, csv/tsv/dsv, txt, sql, xml<br/>
             </p>
 
-            <b>MULTIMEDIA</b><br/>
+            <h3><b>MULTIMEDIA</b></h3>
             <p>
                 <u>Design:</u> Adobe Creative Suite (Photoshop, Illustrator, Lightroom, InDesign)<br/>
-                <u>Communication:</u> Editing, Copywriting (academic, journalism, creative)<br/>
+                <u>Communication:</u> Editing, Copywriting (academic, journalism)<br/>
                 <u>Video Production:</u> Premiere Pro, Final Cut Pro (X), cinematography<br/>
                 <u>Marketing:</u> SEO keywords, social media<br/>
-                <u>Other:</u> photography/video/audio equipment<br/>
             </p>
 
-            <b>WORK EXPERIENCE</b>
+            <h3><b>EXPERIENCE</b></h3>
             <p>
-                • <u>STAFF INTERN</u> – <i>ACNHUR España/UN High Commissioner for Refugees</i> – Madrid, Spain (2016)<br/>
+                • <u>STAFF INTERN</u> – <i>United Nations High Commissioner for Refugees (UNHCR)</i> – Madrid, Spain (2016)<br/>
                 • <u>RESEARCH ASSISTANT</u> – <i>Dr. Saskia Sassen, Sociology Department, Columbia University</i> – New York, USA (2015 - 2016)<br/>
                 • <u>MEDIA INTERN</u> – <i>Undergraduate Recruitment Committee, Columbia University</i> – New York, USA (2014 - 2015)<br/>
                 • <u>SEASONAL VOLUNTEER</u> – <i>Rooftop Films</i> – New York, USA (2014-16)<br/>
-                • <u>SENIOR MENTOR PHOTOGRAPHER</u> – <i>Columbia Photographers Association</i> – New York, USA (2011 - 2014)<br/>
                 • <u>PRODUCTION ASSISTANT</u> – <i>WGTN LUX Festival</i> – Wellington, New Zealand (2013)<br/>
                 • <u>CONSERVATION VOLUNTEER</u> – <i>Elephant Valley Project</i> – Mondulkiri, Cambodia (2013)<br/>
                 • <u>ASSOCIATE EDITOR</u> – <i>Halcyon Photography Magazine</i> – New York, USA (2011 - 2012)<br/>
                 • <u>FREELANCER</u> – <i>Self-Employed</i> – Hired for portraits, events, branding (2009-Current)
             </p>
 
-            <b>OTHER CERTIFICATIONS / COURSES</b>
+            <h3><b>OTHER CERTIFICATIONS / COURSES</b></h3>
             <p>
                 • SPICED ACADEMY OF CODE – Full-Stack Web Development – Berlin, Germany (2017)<br/>
+                • SCHOOL FOR FIELD STUDIES – Environmental & Development Studies – Bumthang, Bhutan (2017)<br/>
                 • NEPAL MOUNTAINEERING ASSOCIATION – Beginner Mountaineering Course – Manang Region, Nepal (2017)<br/>
                 • AMERICAN RED CROSS – First Aid, CPR – New York, USA (2016)<br/>
                 • N.O.L.S. WILDERNESS MEDICINE – Wilderness First Aid – New York, USA (2016)<br/>

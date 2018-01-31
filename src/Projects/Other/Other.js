@@ -20,7 +20,7 @@ class Other extends Component {
                 </p>
                 <a href="https://www.youtube.com/watch?v=LMiI4dLdook"><img src="/projects/wgtn-lux.gif" className="Other-photo" alt="wgtn-lux"/></a><br/>
                 <p>
-                    <a href="https://www.lux.org.nz/" className="Other-link">I was a Production Assistant for a technology-arts festival called WGTN LUX in Wellington, New Zealand. I also made a promotional video, which in linked above.</a>
+                    <a href="https://www.lux.org.nz/" className="Other-link">I was a Production Assistant for the technology-arts festival, WGTN LUX in Wellington, New Zealand.<br/> I also made a promotional video, which is linked in the gif above.</a>
                 </p>
             </div>
         );

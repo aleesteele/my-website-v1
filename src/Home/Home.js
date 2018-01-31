@@ -16,9 +16,9 @@ class Home extends Component {
                     <br/><br/>
                     Most recently, I <Link to="/spiced" className="Home-link">attended a full-stack programming bootcamp in Berlin</Link>, which is really starting to <Link to="/recent" className="Home-link">tie a lot of these experiences and skills together</Link>. In my free time, I'm trying to better <Link to="/about" className="Home-link">understand the political economy</Link>.
                     <br/><br/>
-                    This website is a work-in-progress (as am I), but feel free to check out my <Link to="/about" className="Home-link">resume</Link>, <a href="https://www.linkedin.com/in/anneleesteele" className="Home-link">LinkedIn</a>, or <a href="https://github.com/aleesteele/" className="Home-link">Github</a> for more about me.
-
-
+                    <Link to="/contact" className="Home-link">I'm currently looking for opportunities to grow</Link>, especially ones where I can exercise my social lens and technical skills. Feel free to check out my <Link to="/about" className="Home-link">resume</Link>, <a href="https://www.linkedin.com/in/anneleesteele" className="Home-link">LinkedIn</a>, or <a href="https://github.com/aleesteele/" className="Home-link">Github</a> to learn more about me, or <a href="mailto:aleesteele@gmail.com" className="Home-link">get in touch</a>.
+                    <br/><br/>
+                    P.S. This website is a work in progress (as am I).
                 </h1>
             </div>
         );
