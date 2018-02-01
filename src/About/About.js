@@ -12,9 +12,6 @@ class About extends Component {
                 MULTIMEDIA SKILLS.
             </h2></b>
 
-            <b><h3>ABOUT</h3></b>
-            Recent graduate with experience in qualitative/quantitative research methods and multimedia production. Trained in programming and web-design. Seeking opportunities to exercise social lens, communication background and technical skills in a collaborative environment. Particularly interested in sustainability, market research, and open data [visualization].
-
             <b><h3>EDUCATION</h3></b>
 
             London School of Economics, University of London International Programme<br/>
