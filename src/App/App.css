@@ -1,6 +1,9 @@
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900); */
+
 .App {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: flex;
+    width: 100%;
 }
 
 .App-nav-div {
@@ -23,9 +26,19 @@
     color: white;
 }
 
+.App-sidebar-name {
+
+}
+
 h1, h2, h3 {
     padding: 0;
     /* font-family: arial; */
+}
+
+h1.App-sidebar-name {
+    padding: 0;
+    font-size: 50px;
+    line-height: 55px;
 }
 
 p {
@@ -40,10 +53,24 @@ i {
     color: #606060;
 }
 
+i.About-LSE:hover {
+    color: #8e8e8e;
+}
+
 u {
     background-color: #222;
     color: #fff;
     text-decoration: none;
+    border-radius: 10px;
+    padding: 0px 5px 0px 5px;
+}
+
+u:hover {
+    background-color: #4c4c4c;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
 }
 
 a {
@@ -58,8 +85,20 @@ Link {
     width: 100%;
 }
 
+img.hover {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    /* background-color: #ffffff; */
+}
+
+img.hover:hover {
+	opacity: .7;
+}
+
 /* MOBILE */
-@media screen and (max-width:768px){
+
+@media screen and (max-width:768px) {
     .App {
         display: inline-block;
         text-align: center;
@@ -75,9 +114,10 @@ Link {
     .Sidebar-photo {
         height: 60px;
     }
-    .App-sidebar-name {
+    h1.App-sidebar-name {
         color: #FFFFFF;
         font-size: 30px;
+        line-height: normal;
         margin: 0 5px 0 5px;
     }
     .App-sidebar-nav {

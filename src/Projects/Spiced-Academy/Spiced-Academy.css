@@ -4,4 +4,17 @@
 
 .Spiced-Academy-text {
     max-width: 600px;
-} 
+    padding: 0px;
+    margin: 0px;
+}
+
+.Spiced-Academy-text-des {
+    padding: 0px;
+    margin: 0px;
+}
+
+h2.Spiced-Academy-project {
+    padding: 0px;
+    margin: 0px;
+    line-height: 20px;
+}

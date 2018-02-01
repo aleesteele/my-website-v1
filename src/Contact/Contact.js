@@ -10,11 +10,11 @@ class Contact extends Component {
         console.log('inside Contact component');
         return (
             <div className="Contact">
-                <u><h2 className="Contact-text">
-                    I love to learn, meet new people, and am always looking to improve my skills.
+                <h2 className="Contact-text">
+                    I'm a recent graduate who loves to learn, meet new people, and is always looking to improve her skills.
                     <br/><br/>
-                    I'm currently looking to grow with a team where I can flex my social lens, multimedia skills and developer muscles. I'm particularly interested in the realms of technicology, research and media. Feel free to get in touch at <a href="mailto:aleesteele@gmail.com" className="Contact-email">aleesteele@gmail.com</a>.
-                </h2></u>
+                    Feel free to get in touch at <a href="mailto:aleesteele@gmail.com" className="Contact-email link anim-middleout">aleesteele@gmail.com</a>.
+                </h2>
             </div>
         );
     }

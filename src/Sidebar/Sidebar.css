@@ -4,7 +4,6 @@
     align-items: center;
 }
 
-
 .App-sidebar {
     left: 0px;
     width: 20%;
@@ -24,6 +23,14 @@
     max-height: 20%;
 }
 
+/* .Sidebar-photo:hover {
+    -webkit-filter: brightness(-50%);
+} */
+.Sidebar-tagline {
+    font-size: 10px;
+    color: white;
+}
+
 .App-sidebar-nav-div {
     width: 100%;
     padding: 3px;
@@ -41,6 +48,17 @@
 }
 
 .sidebar-icon {
-    max-width: 30px;
     padding: 2px;
 }
+
+.Sidebar-copyright{
+    color: #ffffff;
+    text-transform: none;
+    font-size: 10px;
+    /* position: absolute; */
+    bottom: 0vh;
+}
+
+/* .App-sidebar-nav-div-icon {
+    max-width: 30px;
+} */

@@ -1,0 +1,9 @@
+ /* img.hover {
+	opacity: 1;
+    background-color: #ffffff;
+}  */
+img.hover:hover {
+	opacity: .7;
+	-webkit-transition: .3s ease-in;
+	transition: .3s ease-in;
+}

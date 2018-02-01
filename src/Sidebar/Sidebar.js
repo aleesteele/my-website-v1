@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router';
 import './Sidebar.css';
+import './SocialMedia.css';
 
 class Sidebar extends Component {
     constructor (props) {
@@ -11,29 +12,41 @@ class Sidebar extends Component {
         return (
             <div className="Sidebar">
                 <div className="Sidebar-photo-div">
-                    <Link to="/"><img src="my-photo.png" className="Sidebar-photo" alt="my-photo"/></Link>
+                        <Link to="/"><img src="my-photo.png" className="hover Sidebar-photo" alt="my-photo"/></Link>
                 </div>
                 <div className="Sidebar-name-div">
                     <h1 className="App-sidebar-name">Anne Lee Steele</h1>
                 </div>
+                {/* <div className="Sidebar-tagline">
+                    Sidebar-tagline-div
+                    <p className="Sidebar-tagline">
+                        Research-driven.
+                        Communication-minded.
+                        Multidisciplinary skills.
+                    </p>
+                </div> */}
                 <div className="App-sidebar-nav">
                     <div className="App-sidebar-nav-div">
-                        <Link to="/" className="App-nav-link">Home</Link>
+                        <Link to="/" className="App-nav-link link anim-middleout">Home</Link>
                     </div>
                     {/* <div className="App-sidebar-nav-div">
-                        <Link to="/portfolio" className="App-nav-link">Portfolio</Link>
+                        <Link to="/portfolio" className="App-nav-link link anim-middleout">Portfolio</Link>
                     </div> */}
                     <div className="App-sidebar-nav-div">
-                        <Link to="/about" className="App-nav-link">Resume</Link>
+                        <Link to="/about" className="App-nav-link link anim-middleout">Resume</Link>
                     </div>
-                    <div className="App-sidebar-nav-div">
-                        <Link to="/contact" className="App-nav-link">Contact</Link>
-                    </div>
+                    {/* <div className="App-sidebar-nav-div">
+                        <Link to="/contact" className="App-nav-link link anim-middleout">Contact</Link>
+                    </div> */}
                 </div>
                     <div className="App-sidebar-nav-div">
-                        <a href="https://github.com/aleesteele/"><img src="/social-media/github.png" className="sidebar-icon" alt="github"/></a>
-                        <a href="https://www.linkedin.com/in/anneleesteele"><img src="/social-media/linkedin.png" className="sidebar-icon" alt="linkedin"/></a>
-                        <a href="https://twitter.com/a_lee_steele"><img src="/social-media/twitter.png" className="sidebar-icon" alt="twitter"/></a>
+                        <ol>
+                            <li className="sidebar-icon"><a class="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
+                            <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/aleesteele"></a></li>
+                            <li className="sidebar-icon"><a class="icon-twitter social-button color" href="http://twitter.com/a_lee_steele"></a></li>
+
+                        </ol>
+                    <p className="Sidebar-copyright">© ANNE LEE STEELE 2018</p>
                     </div>
             </div>
         );

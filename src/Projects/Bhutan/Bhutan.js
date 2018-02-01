@@ -11,7 +11,7 @@ class Bhutan extends Component {
         return (
             <div className="Bhutan">
                 {/* <img src="/projects/bhutan1.jpg" className="Bhutan-photo" alt="Bhutan"/><br/> */}
-                <img src="/projects/bhutan2.jpg" className="Bhutan-photo" alt="Bhutan"/><br/>
+                <img src="/projects/bhutan2.jpg" className="Bhutan-photo hover" alt="Bhutan"/><br/>
                 <p className="Bhutan-text">
                     I spent my last undergraduate semester in Bhutan, which is widely known for its policy of "Gross National Happiness" as a measure for development and conservation with a group of student researchers. We were incredibly fortunate to be able to spend time in the last Himalayan Kingdom, still considered one of the most-closed countries on the planet.
                     <br/><br/>
