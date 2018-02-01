@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router';
-import './Recent.css';
+import './Gene.css';
 
-class Recent extends Component {
+class Gene extends Component {
     constructor (props) {
         super(props);
     }
@@ -24,4 +24,4 @@ class Recent extends Component {
     }
 }
 
-export default Recent;
+export default Gene;

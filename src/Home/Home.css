@@ -5,7 +5,7 @@
 h1.Home-main-text {
     font-size: 30px;
     line-height: 40px;
-    max-width: 750px;
+    max-width: 800px;
 }
 
 a.Home-link {
@@ -16,4 +16,10 @@ a.Home-link {
 a.Home-link:hover {
     color: #c9c9c9;
     text-decoration: none;
+}
+
+.Home-email-icon {
+    max-height: 30px;
+    padding: 0px;
+    margin: 0px;
 }

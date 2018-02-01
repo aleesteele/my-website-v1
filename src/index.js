@@ -14,7 +14,7 @@ import Bhutan from './Projects/Bhutan/Bhutan';
 import DanceMarathon from './Projects/Dance-Marathon/Dance-Marathon';
 import Video from './Projects/Video/Video';
 import SpicedAcademy from './Projects/Spiced-Academy/Spiced-Academy';
-import Recent from './Projects/Recent/Recent';
+import Gene from './Projects/Gene/Gene';
 import Other from './Projects/Other/Other';
 // import Academics from './Academics/Academics';
 import registerServiceWorker from './registerServiceWorker';
@@ -31,7 +31,7 @@ router = (
                 <Route path="/about" component={About}/>
                 <Route path="/portfolio" component={Portfolio}/>
                 <Route path="/contact" component={Contact}/>
-                <Route path="/recent" component={Recent}/>
+                <Route path="/gene" component={Gene}/>
                 <Route path="/cudm" component={DanceMarathon}/>
                 <Route path="/bhutan" component={Bhutan}/>
                 <Route path="/spiced" component={SpicedAcademy}/>

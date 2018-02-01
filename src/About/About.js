@@ -34,15 +34,15 @@ class About extends Component {
             2011 - 2017<br/>
             New York, USA
             <p>
-                <i>Coursework focused on sustainable development, cultural studies and languages</i><br/>
-                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Literary Texts and Criticism, Science for Sustainable Development, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum
+                <i>Coursework focused on sustainable development, urbanization and cultural studies</i><br/>
+                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Literary Texts and Criticism, Science for Sustainable Development, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum, Urban Anthropology, The Ethnographic Imagination, Intro to Ethnic Studies
                 <br/>
             </p>
             <p>
                 <u>Select Organizations:</u> Undergraduate Committee on Global Thought, Columbia Photographers Association, EcoReps, Columbia Daily Spectator
             </p>
             <p>
-                <u>Study Abroad</u>: <i>Environmental and Development Studies</i>. School for Field Studies, Spring 2017. Based at the Ugyen Wangchuck Institute for Conservation and Environmental Research (UWICER) in Bumthang, Bhutan. Participation fully funded by Columbia University and School For Field Studies.
+                <u>Field Research Study Abroad</u>: <i>Environmental and Development Studies</i>. School for Field Studies, Spring 2017. Based at the Ugyen Wangchuck Institute for Conservation and Environmental Research (UWICER) in Bumthang, Bhutan. Participation fully funded by Columbia University and School For Field Studies.
             </p>
             <p>
                 <u>Notable Projects:</u> <br/>
