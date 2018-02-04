@@ -8,7 +8,7 @@ class About extends Component {
             <div className="About">
 
             <div className="About-download">
-                Want to see this in document-form? <a href="http://www.aleesteele.com/projects/Anne-Lee-Steele-CV.pdf" className="About-download-link link anim-middleout" download="Anne Lee Steele-CV">Click here.</a>
+                Want to see this in document-form? <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="About-download-link link anim-middleout" download="Anne-Lee-Steele-CV-2018.pdf">Click here.</a>
             </div>
             <b><h2 className="About-tagline">
                 Research-driven.<br/>
