@@ -35,7 +35,7 @@ class About extends Component {
             New York, USA
             <p>
                 <i>Coursework focused on sustainable development, urbanization and cultural studies</i><br/>
-                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Literary Texts and Criticism, Science for Sustainable Development, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum, Urban Anthropology, The Ethnographic Imagination, Intro to Ethnic Studies
+                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum, Literary Texts and Criticism, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Intro to Ethnic Studies
                 <br/>
             </p>
             <p>
@@ -48,7 +48,7 @@ class About extends Component {
                 <u>Notable Projects:</u> <br/>
                 • <i>"Mobility as Multi-Dimensional: Forest Governance at Wangchuck Centennial National Park and Beyond"</i>, final directed research project from semester-long field research program in Bhutan, presented to Royal Government of Bhutan officials, researchers and scientists (2017).<br/>
                 • Used ArcGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage, (2017).<br/>
-                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Analyzed relationship between energy industry and poverty levels on Native American reservations during semester-long project (2016). <br/>
+                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Analyzed relationship between energy industry and phistorical census data of Native American populations during multi-semester long project (2016). <br/>
                 • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reporting of major news outlets for semester long project (2016).<br/>
                 • Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).<br/>
                 • Tracked business growth and gentrification trends of Harlem using public records/Google Maps data (2015).<br/>
