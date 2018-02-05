@@ -35,7 +35,7 @@ class About extends Component {
             New York, USA
             <p>
                 <i>Coursework focused on sustainable development, urbanization and cultural studies</i><br/>
-                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum, Literary Texts and Criticism, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Intro to Ethnic Studies
+                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum, Literary Texts and Criticism, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Intro to Ethnic Studies, Earth Resources, Intro to Earth Science (Earth: Origin, Evolution, Processes, Future)
                 <br/>
             </p>
             <p>
