@@ -47,11 +47,11 @@ class About extends Component {
             <p>
                 <u>Notable Projects:</u> <br/>
                 • <i>"Mobility as Multi-Dimensional: Forest Governance at Wangchuck Centennial National Park and Beyond"</i>, final directed research project from semester-long field research program in Bhutan, presented to Royal Government of Bhutan officials, researchers and scientists (2017).<br/>
-                • Used ArcGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage, (2017).<br/>
-                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Analyzed presence of energy and mining industries on Native American reserv during multi-semester long project (2016). <br/>
-                • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reporting of major news outlets for semester long project (2016).<br/>
+                • Used ArcGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage (2017).<br/>
+                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Reviewed US census data to analyze historical presence of energy, mining industries on N. American reservations during multi-semester long project (2016). <br/>
+                • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reportage in major news outlets for semester long project (2016).<br/>
                 • Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).<br/>
-                • Tracked business growth and gentrification trends of Harlem using public records/Google Maps data (2015).<br/>
+                • Tracked Harlem business growth, development trends using public records/Google Maps, local interviews (2015).<br/>
             </p>
             <p>
                 <u>Select Publications</u><br/>
@@ -60,6 +60,7 @@ class About extends Component {
                 • <i>"Moving Pictures"</i>. <a href="http://www.columbiaspectator.com/eye/2013/02/06/moving-pictures/" className="About-link link anim-middleout">Published in "The Eye" Magazine, (2013)</a>.<br/>
                 • <i>"On the Venus of Willendorf and My Neighbor"</i>. Published in the print edition of art mag "The Point", Christchurch, NZ (2013).<br/>
                 • <i>Anne Lee Steele Photography</i>. <a href="https://issuu.com/racingminds/docs/may2011/73" className="About-link link anim-middleout">Featured in Racing Minds Mag, (2011)</a>.
+
             </p>
 
             <h3><b>SKILLS SUMMARY</b></h3>

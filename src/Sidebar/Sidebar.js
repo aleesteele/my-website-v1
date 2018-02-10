@@ -11,9 +11,9 @@ class Sidebar extends Component {
         console.log('inside Sidebar component');
         return (
             <div className="Sidebar">
-                <div className="Sidebar-photo-div">
+                {/* <div className="Sidebar-photo-div">
                         <Link to="/"><img src="my-photo.png" className="hover Sidebar-photo" alt="my-photo"/></Link>
-                </div>
+                </div> */}
                 <div className="Sidebar-name-div">
                     <h1 className="App-sidebar-name">Anne Lee Steele</h1>
                 </div>
