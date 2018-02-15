@@ -44,28 +44,29 @@ class About extends Component {
             <p>
                 <u>Field Research Study Abroad</u>: <i>Environmental and Development Studies</i>. School for Field Studies, Spring 2017. Based at the Ugyen Wangchuck Institute for Conservation and Environmental Research (UWICER) in Bumthang, Bhutan. Participation fully funded by Columbia University and School For Field Studies.
             </p>
+
+            <h3><b>PROJECTS</b></h3>
             <p>
-                <u>Notable Projects:</u> <br/>
                 • <i>"Mobility as Multi-Dimensional: Forest Governance at Wangchuck Centennial National Park and Beyond"</i>, final directed research project from semester-long field research program in Bhutan, presented to Royal Government of Bhutan officials, researchers and scientists (2017).<br/>
-                • Used ArcGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage (2017).<br/>
+                • Used qGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage (2017).<br/>
                 • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Reviewed US census data to analyze historical presence of energy, mining industries on N. American reservations during multi-semester long project (2016). <br/>
                 • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reportage in major news outlets for semester long project (2016).<br/>
                 • Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).<br/>
                 • Tracked Harlem business growth, development trends using public records/Google Maps, local interviews (2015).<br/>
             </p>
+
+            <h3><b>PUBLICATIONS</b></h3>
             <p>
-                <u>Select Publications</u><br/>
                 • <i>"Investigating the Global and Local in Wangchuck Centennial National Park: A Case for the Bhutanese Conservation Actors In-Between"</i>. <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="About-link link anim-middleout">Published online in Consilience, the Journal of Sustainable Development, (2018)</a>.<br/>
                 • <i>"Acknowledging the South and Ourselves"</i>. <a href="http://spc.columbiaspectator.com/2013/02/03/acknowledging-south%E2%80%94and-ourselves" className="About-link link anim-middleout">Published the Columbia Daily Spectator, (2013)</a>.<br/>
                 • <i>"Moving Pictures"</i>. <a href="http://www.columbiaspectator.com/eye/2013/02/06/moving-pictures/" className="About-link link anim-middleout">Published in "The Eye" Magazine, (2013)</a>.<br/>
                 • <i>"On the Venus of Willendorf and My Neighbor"</i>. Published in the print edition of art mag "The Point", Christchurch, NZ (2013).<br/>
                 • <i>Anne Lee Steele Photography</i>. <a href="https://issuu.com/racingminds/docs/may2011/73" className="About-link link anim-middleout">Featured in Racing Minds Mag, (2011)</a>.
-
             </p>
 
-            <h3><b>SKILLS SUMMARY</b></h3>
+            <h3><b>SKILLS</b></h3>
             <p className="About-bullets">
-                • <u>Technical</u>: qualitative/quantitative data analysis, mapping (ArcGIS, Google Maps), Microsoft Suite<br/>
+                • <u>Technical</u>: qualitative/quantitative data analysis, mapping (qGIS, Google Maps), Microsoft Suite<br/>
                 • <u>Web-Development</u>: HTML5/CSS4/Javascript, jQuery, Frontend (React, Redux, Angular, Handlebars), Backend (Express, Node), RESTful APIs (Github, Twitter, News, Google Maps), Postgres, Redis, Media Queries, Three.js, Heroku, Content Management Systems (AWS, Wordpress), Data-types (json, csv/tsv/dsv, txt, sql, xml)<br/>
                 • <u>Research</u>: interviewing, writing (academic/journalism/ethnographic), interviewing, literature review, field research<br/>
                 • <u>Multimedia</u>: design (Adobe CS6/CC), video production (Final Cut Pro X/Premiere Pro)<br/>

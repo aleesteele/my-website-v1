@@ -5,6 +5,22 @@
     font-family: 'Roboto', sans-serif;
     display: flex;
     width: 100%;
+    position: relative;
+}
+
+.App-sidebar {
+    left: 0px;
+    width: 20%;
+    min-height: 100vh;
+    /* min-width: 100vw; */
+    background-color: #222;
+    padding: 5px;
+}
+
+.App-content {
+    width: 100%;
+    /* position:fixed; */
+    overflow: scroll;
 }
 
 .App-nav-div {
@@ -82,9 +98,7 @@ Link {
     text-decoration: none;
 }
 
-.App-content {
-    width: 100%;
-}
+
 
 img.hover {
 	opacity: 1;
@@ -108,6 +122,9 @@ img.hover:hover {
         width: 100%;
         min-height: 100px;
         max-height: 200px;
+    }
+    .Sidebar {
+        /* width: 100%; */
     }
     .App-content {
         width: 100%;
