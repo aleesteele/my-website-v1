@@ -7,9 +7,9 @@ class About extends Component {
         return (
             <div className="About">
 
-            <div className="About-download">
+            {/* <div className="About-download">
                 Want to see this in document-form? <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="About-download-link link anim-middleout" download="Anne-Lee-Steele-CV-2018.pdf">Click here.</a>
-            </div>
+            </div> */}
             <b><h2 className="About-tagline">
                 Research-driven.<br/>
                 Communication-minded.<br/>
@@ -35,7 +35,7 @@ class About extends Component {
             New York, USA
             <p>
                 <i>Coursework focused on sustainable development, urbanization and cultural studies</i><br/>
-                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Masterpieces of Western Literature and Philosophy, Earth Institute Practicum, Literary Texts and Criticism, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Intro to Ethnic Studies, Earth Resources, Intro to Earth Science (Earth: Origin, Evolution, Processes, Future)
+                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Earth Institute Practicum, Critical Theory, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Comparative Ethnic Studies, Earth Resources and Sustainability, Intro to Earth Science (Earth: Origin, Evolution, Processes, Future)
                 <br/>
             </p>
             <p>
@@ -52,7 +52,7 @@ class About extends Component {
                 • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Reviewed US census data to analyze historical presence of energy, mining industries on N. American reservations during multi-semester long project (2016). <br/>
                 • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reportage in major news outlets for semester long project (2016).<br/>
                 • Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).<br/>
-                • Tracked Harlem business growth, development trends using public records/Google Maps, local interviews (2015).<br/>
+                • Tracked Harlem business growth, development trends using public records, OpenStreetMap, local interviews (2015).<br/>
             </p>
 
             <h3><b>PUBLICATIONS</b></h3>
@@ -66,11 +66,12 @@ class About extends Component {
 
             <h3><b>SKILLS</b></h3>
             <p className="About-bullets">
-                • <u>Technical</u>: qualitative/quantitative data analysis, mapping (qGIS, Google Maps), Microsoft Suite<br/>
-                • <u>Web-Development</u>: HTML5/CSS4/Javascript, jQuery, Frontend (React, Redux, Angular, Handlebars), Backend (Express, Node), RESTful APIs (Github, Twitter, News, Google Maps), Postgres, Redis, Media Queries, Three.js, Heroku, Content Management Systems (AWS, Wordpress), Data-types (json, csv/tsv/dsv, txt, sql, xml)<br/>
-                • <u>Research</u>: interviewing, writing (academic/journalism/ethnographic), interviewing, literature review, field research<br/>
-                • <u>Multimedia</u>: design (Adobe CS6/CC), video production (Final Cut Pro X/Premiere Pro)<br/>
-                • <u>Marketing</u>: Google AdWords, SEO, social media, blogging<br/>
+                • <u>Competent</u>: HTML5, CSS3, jQuery, Handlebars, Express, Node, Git/Github, Heroku, Adobe CS6/CC
+                <br/>
+                • <u>Proficient</u>: React, Redux, Angular, Postgres, Redis, SQL, CMS, AWS, WordPress, RESTful APIs, Webpack
+                <br/>
+                •  <u>Basic</u>: D3, Python, R/RStudio, SASS, Google Analytics, AdWords, SEO, qGIS, OpenStreetMap
+                <br/>
                 • <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German
             </p>
 
@@ -83,7 +84,7 @@ class About extends Component {
                 • <u>WGTN LUX Festival, Massey University</u> – <i>Production Assistant</i> – Wellington, New Zealand (2013)<br/>
                 • <u>Elephant Valley Project</u> – <i>Conservation Volunteer</i> – Mondulkiri, Cambodia (2013)<br/>
                 • <u>Halcyon Photography Magazine</u> – <i>Associate Editor</i> – New York, USA (2011 - 2012)<br/>
-                • <u>Freelance</u> – <i>Self-Employed</i> – Hired for portraits, events, branding (2009 - Current)
+                • <u>Freelance</u> – <i>Self-Employed</i> – Hired for portraits, events, branding, websites (2009 - Current)
             </p>
 
             <h3><b>OTHER CERTIFICATIONS / COURSES</b></h3>
