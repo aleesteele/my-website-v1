@@ -19,7 +19,7 @@ class About extends Component {
             <b><h3>EDUCATION</h3></b>
 
             London School of Economics, University of London International Programme<br/>
-            Graduate Diploma, Economics<br/>
+            Post-Graduate Diploma, Economics<br/>
             2017 - Current<br/>
             London, UK (Online)
             <p>
