@@ -12,8 +12,8 @@ class About extends Component {
             </div> */}
             <b><h2 className="About-tagline">
                 Research-driven.<br/>
-                Communication-minded.<br/>
-                Multidisciplinary skills.
+                Technical skills.<br/>
+                Communication-minded.
             </h2></b>
 
             <b><h3>EDUCATION</h3></b>
