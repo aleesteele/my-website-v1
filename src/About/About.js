@@ -31,7 +31,7 @@ class About extends Component {
 
             Columbia University in the City of New York<br/>
             B.A. Sociology, B.A. Anthropology<br/>
-            2011 - 2017<br/>
+            Class of 2017<br/>
             New York, USA
             <p>
                 <i>Coursework focused on sustainable development, urbanization and cultural studies</i><br/>
