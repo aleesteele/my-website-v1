@@ -42,9 +42,9 @@ class Sidebar extends Component {
                     <div className="App-sidebar-nav-div">
                         <ol>
                             <li className="sidebar-icon"><a class="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
-                            <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/aleesteele"></a></li>
-                            <li className="sidebar-icon"><a class="icon-twitter social-button color" href="http://twitter.com/a_lee_steele"></a></li>
-                            <li className="sidebar-icon"><a class="icon-instagram social-button color" href="http://instagram.com/a.lee.steele"></a></li>
+                            <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li>
+                            <li className="sidebar-icon"><a class="icon-twitter social-button color" href="http://twitter.com/anneleesteele"></a></li>
+                            <li className="sidebar-icon"><a class="icon-instagram social-button color" href="http://instagram.com/anneleesteele"></a></li>
 
                         </ol>
                     <p className="Sidebar-copyright">© ANNE LEE STEELE 2018</p>
