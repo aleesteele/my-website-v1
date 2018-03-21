@@ -11,9 +11,9 @@ class Sidebar extends Component {
         console.log('inside Sidebar component');
         return (
             <div className="Sidebar">
-                {/* <div className="Sidebar-photo-div">
+                <div className="Sidebar-photo-div">
                         <Link to="/"><img src="my-photo.png" className="hover Sidebar-photo" alt="my-photo"/></Link>
-                </div> */}
+                </div>
                 <div className="Sidebar-name-div">
                     <h1 className="App-sidebar-name">Anne Lee Steele</h1>
                 </div>
@@ -42,9 +42,9 @@ class Sidebar extends Component {
                     <div className="App-sidebar-nav-div">
                         <ol>
                             <li className="sidebar-icon"><a class="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
-                            <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li>
                             <li className="sidebar-icon"><a class="icon-twitter social-button color" href="http://twitter.com/anneleesteele"></a></li>
                             <li className="sidebar-icon"><a class="icon-instagram social-button color" href="http://instagram.com/anneleesteele"></a></li>
+                            <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li>
 
                         </ol>
                     <p className="Sidebar-copyright">© ANNE LEE STEELE 2018</p>

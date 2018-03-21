@@ -30,8 +30,8 @@ class About extends Component {
             New York, USA
             <p>
                 <i>Coursework focused on sustainable development, urbanization and cultural studies</i><br/>
-                <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Earth Institute Practicum, Critical Theory, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Comparative Ethnic Studies, Earth Resources and Sustainability, Intro to Earth Science (Earth: Origin, Evolution, Processes, Future)
-                <br/>
+                {/* <u>Select Coursework:</u> Methods for Social Research, Global Urbanism, Social Theory, Political and Socioeconomic Dimensions of the Environment, Earth Institute Practicum, Critical Theory, Science for Sustainable Development, Urban Anthropology, The Ethnographic Imagination, Comparative Ethnic Studies, Earth Resources and Sustainability, Intro to Earth Science (Earth: Origin, Evolution, Processes, Future)
+                <br/> */}
             </p>
             <p>
                 <u>Select Organizations:</u> Undergraduate Committee on Global Thought, Columbia Photographers Association, EcoReps, Columbia Daily Spectator
