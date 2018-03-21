@@ -7,14 +7,9 @@ class About extends Component {
         return (
             <div className="About">
 
-            {/* <div className="About-download">
+            <div className="About-download">
                 Want to see this in document-form? <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="About-download-link link anim-middleout" download="Anne-Lee-Steele-CV-2018.pdf">Click here.</a>
-            </div> */}
-            <b><h2 className="About-tagline">
-                Research-driven.<br/>
-                Technical skills.<br/>
-                Communication-minded.
-            </h2></b>
+            </div>
 
             <b><h3>EDUCATION</h3></b>
 
@@ -49,10 +44,10 @@ class About extends Component {
             <p>
                 • <i>"Mobility as Multi-Dimensional: Forest Governance at Wangchuck Centennial National Park and Beyond"</i>, final directed research project from semester-long field research program in Bhutan, presented to Royal Government of Bhutan officials, researchers and scientists (2017).<br/>
                 • Used qGIS and Royal Government of Bhutan historical data to map evolution of national forest coverage (2017).<br/>
-                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Reviewed US census data to analyze historical presence of energy, mining industries on N. American reservations during multi-semester long project (2016). <br/>
+                • <i>"Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’"</i>. Analyzed historical US census data to report on energy, mining industries on N. American reservations (2016). <br/>
                 • <i>"Qualifying and Quantifying Media Bias: Reportage of Officially-Claimed ISIL Terrorist Attacks in Western Media, 2014-2016"</i>. Developed 'bias measures’ for reportage in major news outlets for semester long project (2016).<br/>
                 • Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).<br/>
-                • Tracked Harlem business growth, development trends using public records, OpenStreetMap, local interviews (2015).<br/>
+                • Used resident interviews, OpenStreetMaps, Google Maps data to track Harlem growth trends (2015).<br/>
             </p>
 
             <h3><b>PUBLICATIONS</b></h3>
@@ -66,13 +61,10 @@ class About extends Component {
 
             <h3><b>SKILLS</b></h3>
             <p className="About-bullets">
-                • <u>Competent</u>: HTML5, CSS3, jQuery, Handlebars, Express, Node, Git/Github, Heroku, Adobe CS6/CC
-                <br/>
-                • <u>Proficient</u>: React, Redux, Angular, Postgres, Redis, SQL, CMS, AWS, WordPress, RESTful APIs, Webpack
-                <br/>
-                •  <u>Basic</u>: D3, Python, R/RStudio, SASS, Google Analytics, AdWords, SEO, qGIS, OpenStreetMap
-                <br/>
-                • <u>Languages:</u> native English speaker, working knowledge of Korean, Spanish and German
+                • <u>Technical</u>: HTML5, CSS3, SQL, JavaScript, jQuery, RESTful APIs, CMS, AWS, Git/Github, qGIS (basic), D3 (basic)<br/>
+                • <u>Multimedia</u>: Adobe CS6/CC, Premiere Pro, Final Cut Pro X, SEO (basic), Google Analytics (basic), social media<br/>
+                • <u>Research</u>: writing (academic/copy/briefs), editing, primary/secondary research, interviewing, surveying, public speaking<br/>
+                • <u>Languages</u>: Working knowledge of Spanish, Korean, and German<br/>
             </p>
 
             <h3><b>EXPERIENCE</b></h3>
