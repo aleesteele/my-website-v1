@@ -20,9 +20,9 @@ class App extends Component {
         const children = React.cloneElement(this.props.children, {})
         return (
             <div className="App">
-                <header className="App-sidebar">
+                {/* <header className="App-sidebar">
                     <Sidebar />
-                </header>
+                </header> */}
                 <div className="App-content">
                     { children }
                 </div>

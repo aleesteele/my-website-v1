@@ -1,5 +1,6 @@
 .Video {
-    margin: 20px;
+    margin: 30px;
+    text-align: center;
 }
 
 .Video-preview {
@@ -7,5 +8,5 @@
 }
 
 .Video-header {
-    max-width: 600px;
+    /* max-width: 600px; */
 }

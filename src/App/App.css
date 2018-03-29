@@ -1,5 +1,9 @@
 
 /* @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900); */
+* {
+    /* background-color: #3ec1a0; */
+    text-align: center;
+}
 
 .App {
     font-family: 'Roboto', sans-serif;
@@ -117,6 +121,9 @@ img.hover:hover {
     .App {
         display: inline-block;
         text-align: center;
+    }
+    .Home {
+        padding: 10px;
     }
     .App-sidebar {
         width: 100%;

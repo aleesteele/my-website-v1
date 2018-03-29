@@ -1,5 +1,8 @@
 .Bhutan {
     margin: 20px;
+    /* width: 100%; */
+    text-align: center;
+    padding: 30px;
 }
 
 .Bhutan-photo {
@@ -7,5 +10,5 @@
 }
 
 .Bhutan-text {
-    max-width: 600px;
+    /* max-width: 600px; */
 }

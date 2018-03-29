@@ -6,13 +6,13 @@
 }
 
 .Home {
-    margin: 20px;
+    margin: 100px;
 }
 
 h1.Home-main-text {
     font-size: 30px;
     line-height: 40px;
-    max-width: 800px;
+    /* max-width: 800px; */
 }
 
 a.Home-link {
@@ -21,7 +21,7 @@ a.Home-link {
 }
 
 a.Home-link:hover {
-    color: #c9c9c9;
+    color: #3ec1a0;
     text-decoration: none;
 }
 
@@ -37,4 +37,10 @@ i.Home-italic {
 
 .Home-main-italic{
     color: #c9c9c9;
+}
+
+@media screen and (max-width:768px) {
+    .Home {
+        padding: 10px;
+    }
 }
