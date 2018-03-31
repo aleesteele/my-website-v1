@@ -26,8 +26,7 @@ class App extends Component {
                     <Sidebar />
                 </header> */}
                 <div className="App-content">
-                    {/* { children } */}
-                    <Home/>
+                    { children }
                     {/* <Portfolio/> */}
                 </div>
             </div>
