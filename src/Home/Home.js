@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router';
+import Portfolio from '../Portfolio/Portfolio';
+
 import './Home.css';
 
 class Home extends Component {
@@ -30,6 +32,7 @@ class Home extends Component {
                         <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li><br/><br/>
                     </ol>
                 </div>
+                {/* ↓ <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">PORTFOLIO</a> ↓ */}
             </div>
         );
     }

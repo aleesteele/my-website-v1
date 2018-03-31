@@ -32,7 +32,7 @@
     /* display: flex; */
 }
 
-.App-footer {
+/* .App-footer {
     position: fixed;
     background-color: #222;
     bottom: 0px;
@@ -49,7 +49,7 @@
 
 .App-sidebar-name {
 
-}
+} */
 
 h1, h2, h3 {
     padding: 0;
@@ -118,12 +118,16 @@ img.hover:hover {
 /* MOBILE */
 
 @media screen and (max-width:768px) {
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
     .App {
         display: inline-block;
         text-align: center;
     }
     .Home {
-        padding: 10px;
+        /* padding: 10px; */
     }
     .App-sidebar {
         width: 100%;

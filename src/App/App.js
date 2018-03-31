@@ -4,6 +4,8 @@ import {Provider} from 'react-redux';
 import {createStore, applyMiddleware} from 'redux';
 import reduxPromise from 'redux-promise';
 import Sidebar from '../Sidebar/Sidebar';
+import Home from '../Home/Home';
+import Portfolio from '../Portfolio/Portfolio';
 import './Link-Animations.css';
 import './App.css';
 
@@ -24,7 +26,9 @@ class App extends Component {
                     <Sidebar />
                 </header> */}
                 <div className="App-content">
-                    { children }
+                    {/* { children } */}
+                    <Home/>
+                    {/* <Portfolio/> */}
                 </div>
             </div>
         );
