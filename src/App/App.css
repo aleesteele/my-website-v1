@@ -102,8 +102,6 @@ Link {
     text-decoration: none;
 }
 
-
-
 img.hover {
 	opacity: 1;
 	-webkit-transition: .3s ease-in-out;
