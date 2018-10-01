@@ -34,10 +34,10 @@ class Home extends Component {
                         <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li><br/><br/>
                     </ol>
                 </div>
-                <div>
+                {/* <div>
                 <Link to="/video" className="Home-link link anim-middleout"></Link>
                 ↓ <a href='#section1'> See my portfolio </a> ↓
-                </div>
+                </div> */}
             </div>
         {/* <ScrollableAnchor className="#section1">
         <Portfolio/>
