@@ -14,18 +14,21 @@ class Home extends Component {
         return (
             <div>
             <div className="Home">
-                <h1 className="Home-main-text">
-                    Hey. I'm Anne.
-                </h1>
+                {/* <h1 className="Home-main-text">
+                    live in Washington, DC.
+                </h1> */}
                 <h1 className="Home-main-text">
                     I studied <a href="https://anthropology.columbia.edu/" className="Home-link link anim-middleout">culture</a> and <a href="http://sociology.columbia.edu/" className="Home-link link anim-middleout">society</a> @ <a href="https://www.columbia.edu/" className="Home-link link anim-middleout">CU</a>, where I focused on <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674599222" className="Home-link link anim-middleout">sustainable development</a> and <a href="https://eacnur.org/es" className="Home-link link anim-middleout">forced migration</a>. I also <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">interviewed foresters</a> in the <Link to="/bhutan" className="Home-link link anim-middleout">last Himalayan Kingdom</Link> and <a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">shot a lot of video</a>, amongst <Link to="/other" className="Home-link link anim-middleout">other things</Link>.
                 </h1>
                 <h1 className="Home-main-text">
-                    Most recently, I learned <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>, which has made me a better researcher, storyteller, and <Link to="/gene" className="Home-link link anim-middleout">designer</Link>. Check out my <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="Home-link link anim-middleout" download="Anne-Lee-Steele-CV-2018.pdf">resume/CV</a>, <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a>, or social media to learn more about me, or <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch ✉</a>.
+                    Most recently, I learned <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>, which has made me a better researcher, storyteller, and <Link to="/gene" className="Home-link link anim-middleout">designer</Link>. Check out my <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="Home-link link anim-middleout" download="Anne-Lee-Steele-CV-2018.pdf">CV</a>, <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a>, or social media to learn more about me, or <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch ✉</a>.
                 </h1>
                 <h1 className="Home-main-text">
-                    Currently: Making media for the CSIS iDeas Lab.
-                </h1>
+                  - Anne Lee Steele
+               </h1>
+                {/* <h1 className="Home-main-text">
+                    Currently: Mul for the <a href="">CSIS iDeas Lab</a>.
+                </h1> */}
                 <div className="App-sidebar-nav-div">
                     <ol>
                         <li className="sidebar-icon"><a class="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
