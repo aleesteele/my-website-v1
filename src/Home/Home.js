@@ -36,6 +36,7 @@ class Home extends Component {
                         <li className="sidebar-icon"><a class="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
                         <li className="sidebar-icon"><a class="icon-twitter social-button color" href="http://twitter.com/anneleesteele"></a></li>
                         <li className="sidebar-icon"><a class="icon-instagram social-button color" href="http://instagram.com/mmntsbyanne"></a></li>
+                        <li className="sidebar-icon"><a class="icon-tumblr social-button color" href="https://aleesteele.tumblr.com/"></a></li>
                         <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li><br/><br/>
                     </ol>
                 </div>
