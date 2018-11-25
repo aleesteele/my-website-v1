@@ -21,9 +21,10 @@ class Home extends Component {
                 Most recently, I learned <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>, which has made me a better storyteller and <Link to="/gene" className="Home-link link anim-middleout">web developer</Link>. When I'm not learning how to communicate research for the web, I'm exploring the intersection of geography and technology <a href="https://aleesteele.github.io/" className="Home-link link anim-middleout">here</a>.
             </h1>
             <h1 className="Home-main-text">
-              Check out my <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="Home-link link anim-middleout" download="Anne-Lee-Steele-C18.pdf">CV</a>, <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a>, or social media to learn more about me, or feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch ✉</a>. Thanks! -Anne
+              Check out my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me, or feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch ✉</a>. Thanks! -Anne
                 </h1>
                 {/* <h1 className="Home-main-text">
+                <a href="http://www.aleesteele.com/Anne-Lee-Steele-CV.pdf" className="Home-link link anim-middleout" download="Anne-Lee-Steele-C18.pdf">CV</a>,
                     Hello, world.<br/>
                     I'm redoing this little corner of the internet.<br/>
                     Check back soon. :)
