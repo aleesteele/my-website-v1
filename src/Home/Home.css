@@ -8,6 +8,12 @@
 .Home {
     margin: 5%;
     min-height: 100vh;
+
+
+}
+
+ul, li {
+  text-align: left;
 }
 
 a.Home-link {
