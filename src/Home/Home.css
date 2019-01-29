@@ -8,8 +8,6 @@
 .Home {
     margin: 5%;
     min-height: 100vh;
-
-
 }
 
 ul, li {
@@ -50,10 +48,14 @@ i.Home-italic {
         font-size: 20px;
         line-height: 25px;
         margin-top: 8px;
+        text-align: left;
         /* max-width: 800px; */
     }
     hr {
       margin: 1em 0 1em 0;
+    }
+    h3.Home-main-text {
+      font-size: 15px;
     }
 }
 
@@ -67,5 +69,8 @@ i.Home-italic {
         font-size: 30px;
         line-height: 40px;
         /* max-width: 800px; */
+    }
+    h3.Home-main-text {
+      font-size: 20px;
     }
 }

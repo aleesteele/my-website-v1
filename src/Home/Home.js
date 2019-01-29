@@ -14,8 +14,10 @@ class Home extends Component {
         return (
             <div className="Home">
                 <h1 className="Home-main-text">
-                  Hello, world.<br/>
-                  I'm Anne, an aspiring ethnographer and technologist-in-training. I'm also currently redoing this little corner of the web – please check back soon.
+                  Hello, world. 🌎<br/>
+                </h1>
+                <h1 className="Home-main-text">
+                  I'm Anne, an ethnographer and technologist-in-training. I'm also currently redoing this little corner of the web – please check back soon.
                 </h1>
                 <h1 className="Home-main-text">
                   In the meantime, check out my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me. And of course, feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch ✉</a>
@@ -23,7 +25,7 @@ class Home extends Component {
                 <h3 className="Home-main-text">
                   Recent Projects & Publications:
                 </h3>
-                <h3>
+                <h3 className="Home-main-text">
                   <ul>
                     <li>Stephenson Ocean Security Project, Center for Strategic and International Studies. Assisted with web development. (2019) – <a href="http://ocean.csis.org" className="Home-link link anim-middleout">ocean.csis.org</a></li>
                     <li>Commission on Strengthening America's Health Security, Center for Strategic and International Studies. Assisted with web development. (2019) – <a href="https://healthsecurity.csis.org/" className="Home-link link anim-middleout">healthsecurity.csis.org/</a></li>
