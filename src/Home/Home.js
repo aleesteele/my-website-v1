@@ -28,7 +28,8 @@ class Home extends Component {
                     <li>Stephenson Ocean Security Project, Center for Strategic and International Studies. Assisted with web development. (2019) – <a href="http://ocean.csis.org" className="Home-link link anim-middleout">ocean.csis.org</a></li>
                     <li>Commission on Strengthening America's Health Security, Center for Strategic and International Studies. Assisted with web development. (2019) – <a href="https://healthsecurity.csis.org/" className="Home-link link anim-middleout">healthsecurity.csis.org/</a></li>
                     <li>“Investigating the Global and Local in Wangchuck Centennial National Park: A Case for the Bhutanese Conservation Actors In-Between”. Published online in “Consilience”, Issue XVIIII (2018) – <a href="https://www.goo.gl/GFSuTi" className="Home-link link anim-middleout">goo.gl/GFSuTi</a></li>
-                    <li>Global Cities. Rendered open data of global cities on three.js visualization (2017) – <a href="https://www.goo.gl/F4E3nS" className="Home-link link anim-middleout">goo.gl/F4E3nS</a></li>
+                    <li>Global Cities, a three.js visualization (2017) – <a href="https://www.goo.gl/F4E3nS" className="Home-link link anim-middleout">goo.gl/F4E3nS</a></li>
+                    <li><a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">Video</a> and <Link to="/other" className="Home-link link anim-middleout">Graphic Design</Link> projects, Various (2011 - 2018)</li>
                   </ul>
                 </h3>
                 <div className="App-sidebar-nav-div">
