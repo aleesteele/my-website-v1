@@ -9,6 +9,7 @@ class Bhutan extends Component {
     render() {
         console.log('inside Bhutan component');
         return (
+          <div>
             <div className="Bhutan">
                 {/* <img src="/projects/bhutan1.jpg" className="Bhutan-photo" alt="Bhutan"/><br/> */}
                 <img src="/projects/bhutan2.jpg" className="Bhutan-photo hover" alt="Bhutan"/><br/>
@@ -20,6 +21,13 @@ class Bhutan extends Component {
                     My project focused on learning more about those in the middle (the foresters and civil servants) that were often unknowing mediators between the international organizations who largely dictated policy and the local villagers who the amongst the primary affected.
                 </p>
             </div>
+            <div className="Bhutan">
+              <img src="/projects/climbing.jpg" className="Other-photo hover" alt="NMA-Mountaineering"/><br/>
+              <p>
+                  Climbing in the Himalayas with the Nepal Mountaineering Association.<br/>
+              </p>
+            </div>
+          </div>
         );
     }
 }

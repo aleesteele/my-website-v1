@@ -10,10 +10,6 @@ class Other extends Component {
         console.log('inside Other component');
         return (
             <div className="Other">
-                <img src="/projects/climbing.jpg" className="Other-photo hover" alt="NMA-Mountaineering"/><br/>
-                <p>
-                    Climbing in the Himalayas with the Nepal Mountaineering Association.<br/>
-                </p>
                 <img src="/projects/dance-marathon.png" className="DanceMarathon-photo hover" alt="CUDM"/><br/>
                 <p className="Bhutan-text">
                     "CUDM is an annual 28-hour dance marathon benefiting the Elizabeth Glaser Pediatric AIDS Foundation. It is dedicated to raising money for the Foundation, but also to raising awareness about HIV/AIDS and the Foundation's work through a dynamic and culturally diverse celebration of life."
