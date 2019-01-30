@@ -20,7 +20,7 @@ class Home extends Component {
                   I'm Anne, an ethnographer, technologist, and mountaineer. In the past few years, I've <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">interviewed foresters</a> in the <Link to="/bhutan" className="Home-link link anim-middleout">last Himalayan Kingdom</Link>, <a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">shot a lot of video</a>, and learned <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>. I'm also  redoing this little corner of the web at the moment – please check back soon.
                 </h1>
                 <h1 className="Home-main-text">
-                  In the meantime, take a look at my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me. And of course, feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch ✉</a>
+                  In the meantime, take a look at my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me. And of course, feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch. ✉</a>
                 </h1><br/>
                 <h3 className="Home-main-text">
                   Recent Projects & Publications:
