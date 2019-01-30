@@ -4,7 +4,7 @@
 
   // In the past couple years, I've been lucky enough to <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">interview foresters</a> in the <Link to="/bhutan" className="Home-link link anim-middleout">last Himalayan Kingdom</Link>, <a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">shoot a lot of video</a>, and learn <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>, amongst <Link to="/other" className="Home-link link anim-middleout">other things</Link>. I'm also currently redoing this little corner of the web... please check back soon. :)<br/>
   //
-  //
+  //video
 // </h1>
 // <h1 className="Home-main-text">
 //     Most recently, I learned <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>, which has made me a better storyteller and <Link to="/gene" className="Home-link link anim-middleout">technologist</Link>. When I'm not learning how to communicate research for the web, I'm exploring the intersection of geography and technology <a href="https://aleesteele.github.io/" className="Home-link link anim-middleout">here</a>.
