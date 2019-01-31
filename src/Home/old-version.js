@@ -18,6 +18,8 @@
 // ↓ <a href='#section1'> See my portfolio </a> ↓
 // </div> */}
 
+// <li className="sidebar-icon"><a class="icon-tumblr social-button color" href="https://aleesteele.tumblr.com/"></a></li>
+
 
 // {/* <ScrollableAnchor className="#section1">
 // <Portfolio/>
