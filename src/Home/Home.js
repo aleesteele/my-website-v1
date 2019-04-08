@@ -1,8 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router';
-import Portfolio from '../Portfolio/Portfolio';
-import ScrollableAnchor from 'react-scrollable-anchor'
 
+import '../App/App.css';
 import './Home.css';
 
 class Home extends Component {
@@ -10,17 +9,19 @@ class Home extends Component {
         super(props);
     }
     render() {
-        console.log('inside Home component');
         return (
             <div className="Home">
                 <h1 className="Home-main-text">
-                  Hello, world. 🌎<br/>
+                  Hello, world. Anne here.<br/>
                 </h1>
                 <h1 className="Home-main-text">
-                  I'm Anne, an ethnographer, technologist, and mountaineer. In the past few years, I've <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">interviewed foresters</a> in the <Link to="/bhutan" className="Home-link link anim-middleout">last Himalayan Kingdom</Link>, <a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">shot a lot of video</a>, and have been learning <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>. I'm also redoing this little corner of the web at the moment – please check back soon.
+                  I'm an MA candidate at the Graduate Institute of International and Development Studies. I'm interested in how technology and the environment affect people (and their politics).
                 </h1>
                 <h1 className="Home-main-text">
-                  In the meantime, take a look at my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me. And of course, feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch. ✉</a>
+                  Before moving to Geneva, I was <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">researching conservation</a> and leading student expeditions in the Himalayas. I also coded data visualizations for a DC think tank and <a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">shot a lot of video</a> along the way.
+                </h1>
+                <h1 className="Home-main-text">
+                  When I'm not thinking about digital ethnography or human-centered design, I'm in the mountains or writing. Take a look at my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me. And of course, feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch. ✉</a>
                 </h1><br/>
                 <h3 className="Home-main-text">
                   Recent Projects & Publications:
@@ -35,10 +36,11 @@ class Home extends Component {
                 </h3>
                 <div className="App-sidebar-nav-div">
                   <ol>
-                      <li className="sidebar-icon"><a class="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
-                      <li className="sidebar-icon"><a class="icon-twitter social-button color" href="http://twitter.com/anneleesteele"></a></li>
-                      <li className="sidebar-icon"><a class="icon-instagram social-button color" href="http://instagram.com/mmntsbyanne"></a></li>
-                      <li className="sidebar-icon"><a class="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li>
+                      <li className="sidebar-icon"><a className="icon-github social-button color" href="http://github.com/aleesteele"></a></li>
+                      <li className="sidebar-icon"><a className="icon-twitter social-button color" href="http://twitter.com/anneleesteele"></a></li>
+                      <li className="sidebar-icon"><a className="icon-instagram social-button color" href="http://instagram.com/mmntsbyanne"></a></li>
+                      <li className="sidebar-icon"><a className="icon-linkedin social-button color" href="http://linkedin.com/in/anneleesteele"></a></li>
+                      <li className="sidebar-icon"><a className="icon-tumblr social-button color" href="https://aleesteele.tumblr.com/"></a></li>
                   </ol>
                 </div>
             </div>

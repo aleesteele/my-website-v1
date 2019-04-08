@@ -1,7 +1,6 @@
-
 /* @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900); */
+
 * {
-    /* background-color: #3ec1a0; */
     text-align: center;
 }
 
@@ -12,104 +11,12 @@
     position: relative;
 }
 
-.App-sidebar {
-    left: 0px;
-    width: 20%;
-    min-height: 100vh;
-    /* min-width: 100vw; */
-    background-color: #222;
-    padding: 5px;
-}
-
 .App-content {
     width: 100%;
     /* position:fixed; */
     overflow: scroll;
 }
 
-.App-nav-div {
-    /* width: 33%; */
-    /* display: flex; */
-}
-
-.Home {
-    min-height: 100vh;
-}
-
-.section1 {
-    /* min-height: 100vh; */
-    background-color: #3ec1a0;
-}
-
-/* .App-footer {
-    position: fixed;
-    background-color: #222;
-    bottom: 0px;
-    height: 50px;
-    width: 100%;
-    padding: 20px;
-    color: white;
-    text-align: center;
-}
-
-.App-footer-link {
-    color: white;
-}
-
-.App-sidebar-name {
-
-} */
-
-h1, h2, h3 {
-    padding: 0;
-    /* font-family: arial; */
-}
-
-h1.App-sidebar-name {
-    padding: 0;
-    font-size: 50px;
-    line-height: 55px;
-}
-
-p {
-    font-size: 14px;
-}
-
-b {
-    color: #222;
-}
-
-i {
-    color: #606060;
-}
-
-i.About-LSE:hover {
-    color: #8e8e8e;
-}
-
-u {
-    background-color: #222;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 10px;
-    padding: 0px 5px 0px 5px;
-}
-
-u:hover {
-    background-color: #4c4c4c;
-    color: #fff;
-    text-decoration: none;
-    -webkit-transition: .3s ease-in-out;
-    transition: .3s ease-in-out;
-}
-
-a {
-    text-decoration: none;
-}
-
-Link {
-    text-decoration: none;
-}
 
 img.hover {
 	opacity: 1;
@@ -120,49 +27,4 @@ img.hover {
 
 img.hover:hover {
 	opacity: .7;
-}
-
-/* MOBILE */
-
-@media screen and (max-width:768px) {
-    * {
-        padding: 0px;
-        margin: 0px;
-    }
-    .App {
-        display: inline-block;
-        text-align: center;
-    }
-    .Home {
-        /* padding: 10px; */
-    }
-    .App-sidebar {
-        width: 100%;
-        min-height: 100px;
-        max-height: 200px;
-    }
-    .Sidebar {
-        /* width: 100%; */
-    }
-    .App-content {
-        width: 100%;
-    }
-    .Sidebar-photo {
-        height: 60px;
-    }
-    h1.App-sidebar-name {
-        color: #FFFFFF;
-        font-size: 30px;
-        line-height: normal;
-        margin: 0 5px 0 5px;
-    }
-    .App-sidebar-nav {
-        display: flex;
-    }
-    .About {
-        text-align: left;
-    }
-    .About-tagline {
-        text-align: center;
-    }
 }

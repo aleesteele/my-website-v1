@@ -1,0 +1,44 @@
+/* MOBILE */
+
+@media screen and (max-width:768px) {
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+    .App {
+        display: inline-block;
+        text-align: center;
+    }
+    .Home {
+        /* padding: 10px; */
+    }
+    .App-sidebar {
+        width: 100%;
+        min-height: 100px;
+        max-height: 200px;
+    }
+    .Sidebar {
+        /* width: 100%; */
+    }
+    .App-content {
+        width: 100%;
+    }
+    .Sidebar-photo {
+        height: 60px;
+    }
+    h1.App-sidebar-name {
+        color: #FFFFFF;
+        font-size: 30px;
+        line-height: normal;
+        margin: 0 5px 0 5px;
+    }
+    .App-sidebar-nav {
+        display: flex;
+    }
+    .About {
+        text-align: left;
+    }
+    .About-tagline {
+        text-align: center;
+    }
+}

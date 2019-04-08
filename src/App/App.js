@@ -3,11 +3,14 @@ import {Link} from 'react-router';
 import {Provider} from 'react-redux';
 import {createStore, applyMiddleware} from 'redux';
 import reduxPromise from 'redux-promise';
-import Sidebar from '../Sidebar/Sidebar';
+
 import Home from '../Home/Home';
 import Portfolio from '../Portfolio/Portfolio';
-import './Link-Animations.css';
+
 import './App.css';
+import './App.linkAnimations.css';
+import './App.mediaQueries.css';
+import './App.textStyles.css';
 
 class App extends Component {
     constructor(props) {
@@ -15,19 +18,15 @@ class App extends Component {
         this.state = {};
     }
     componentDidMount() {
-        console.log('App Component Did Mount');
+        console.log('app mounted');
     }
     render() {
         console.log('inside App component')
         const children = React.cloneElement(this.props.children, {})
         return (
             <div className="App">
-                {/* <header className="App-sidebar">
-                    <Sidebar />
-                </header> */}
                 <div className="App-content">
                     { children }
-                    {/* <Portfolio/> */}
                 </div>
             </div>
         );

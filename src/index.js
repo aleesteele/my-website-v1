@@ -9,7 +9,6 @@ import App from './App/App.js';
 import Home from './Home/Home';
 import About from './About/About';
 import Portfolio from './Portfolio/Portfolio';
-import Contact from './Contact/Contact'
 import Bhutan from './Projects/Bhutan/Bhutan';
 import DanceMarathon from './Projects/Dance-Marathon/Dance-Marathon';
 import Video from './Projects/Video/Video';
@@ -30,7 +29,6 @@ router = (
                 <IndexRoute component={Home}/>
                 <Route path="/about" component={About}/>
                 <Route path="/portfolio" component={Portfolio}/>
-                <Route path="/contact" component={Contact}/>
                 <Route path="/gene" component={Gene}/>
                 <Route path="/cudm" component={DanceMarathon}/>
                 <Route path="/bhutan" component={Bhutan}/>
