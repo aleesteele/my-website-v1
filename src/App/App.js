@@ -9,7 +9,7 @@ import Portfolio from '../Portfolio/Portfolio';
 
 import './App.css';
 import './App.linkAnimations.css';
-import './App.mediaQueries.css';
+import './App.mixins.css';
 import './App.textStyles.css';
 
 class App extends Component {
