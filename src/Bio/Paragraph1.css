@@ -1,0 +1,78 @@
+.App-sidebar {
+    /* background-image: url('/bg-img/mountains.jpg');
+    background-repeat: repeat;
+    background-size: 100vw;
+    background-position: 50% 0%; */
+}
+
+.Bio {
+    margin: 5%;
+    min-height: 100vh;
+}
+
+ul, li {
+  text-align: left;
+}
+
+a.Home-link {
+    color: #8c8c8c;
+    text-decoration: none;
+}
+
+a.Home-link:hover {
+    color: #3ec1a0;
+    text-decoration: none;
+}
+
+.Home-email-icon {
+    max-height: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+
+i.Home-italic {
+    /* color: #222; */
+}
+
+.Home-main-italic{
+    color: #c9c9c9;
+}
+
+@media screen and (max-width:768px) {
+    .Bio {
+        /* padding: 10px; */
+        max-height: 100vw;
+        /* min-width: 100vh; */
+    }
+    h1.Bio-main-text {
+        font-size: 20px;
+        line-height: 25px;
+        margin-top: 8px;
+        text-align: left;
+        /* max-width: 800px; */
+    }
+    hr {
+      margin: 1em 0 1em 0;
+    }
+    h3.Bio-main-text {
+      font-size: 15px;
+      line-height: 25px;
+    }
+}
+
+@media (min-width:769px) and (max-width:2000px) {
+    .Bio {
+        width: 50%;
+        padding: 100px;
+        max-height: 100vw;
+    }
+    h1.Bio-main-text {
+        font-size: 30px;
+        line-height: 40px;
+        /* max-width: 800px; */
+    }
+    h3.Bio-main-text {
+      font-size: 20px;
+      line-height: 30px;
+    }
+}
