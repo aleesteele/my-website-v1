@@ -14,10 +14,7 @@ class Home extends Component {
         return (
             <div className="Home">
                 <h1 className="Home-main-text">
-                  Hello, world. 🌎<br/>
-                </h1>
-                <h1 className="Home-main-text">
-                  I'm Anne, an ethnographer, technologist, and mountaineer. In the past few years, I've <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">interviewed foresters</a> in the <Link to="/bhutan" className="Home-link link anim-middleout">last Himalayan Kingdom</Link>, <a href="https://youtu.be/9NuDewSvVbA" className="Home-link link anim-middleout">shot a lot of video</a>, and have been learning <Link to="/spiced" className="Home-link link anim-middleout">how to code</Link>. I'm also redoing this little corner of the web at the moment – please check back soon.
+                    I'm Anne, currently a MA candidate at the Graduate Institute of International and Development Studies, Geneva. Before moving to Switzerland, I <a href="https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/" className="Home-link link anim-middleout">researched conservation</a> in <Link to="/bhutan" className="Home-link link anim-middleout">Bhutan</Link>, lead student expeditions in Nepal, coded data visualizations for a Washington DC think tank. I'm also redoing this little corner of the web at the moment – please check back soon.
                 </h1>
                 <h1 className="Home-main-text">
                   In the meantime, take a look at my <a href="http://linkedin.com/in/anneleesteele" className="Home-link link anim-middleout">LinkedIn</a> or social media to learn more about me. And of course, feel free to <a href="mailto:aleesteele@gmail.com" className="Home-link link anim-middleout">get in touch. ✉</a>

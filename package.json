@@ -1,26 +1,32 @@
 {
-    "name": "my-app",
-    "version": "0.1.0",
-    "description": "",
-    "main": "index.js",
-    "private": true,
-    "dependencies": {
-        "@axetroy/react-download": "^1.0.0",
-        "axios": "^0.17.1",
-        "express": "^4.16.2",
-        "react": "^16.2.0",
-        "react-dom": "^16.2.0",
-        "react-redux": "^5.0.6",
-        "react-router": "^3.2.0",
-        "react-scripts": "^2.1.8",
-        "react-scrollable-anchor": "^0.6.1",
-        "redux": "^3.7.2",
-        "redux-promise": "^0.5.3"
-    },
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test --env=jsdom",
-        "eject": "react-scripts eject"
-    }
+  "name": "my-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@axetroy/react-download": "^1.0.0",
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^3.2.0",
+    "react-scripts": "^2.1.8",
+    "react-scrollable-anchor": "^0.6.1",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
